@@ -1,0 +1,17 @@
+{
+  "status": "development diagnosis only",
+  "variants": {
+    "no_guessed_ramps": [
+      "--ramps.guess",
+      "false"
+    ],
+    "no_guessed_ramps_no_uturns": [
+      "--ramps.guess",
+      "false",
+      "--no-turnarounds",
+      "true"
+    ]
+  },
+  "fixed": "original OSM, OD requests, departure times, seed 4101, horizon 2400, step .5, teleport disabled",
+  "accounting": "retain unroutable requests; route changes prevent interpreting contrasts as placement/auditor effects"
+}

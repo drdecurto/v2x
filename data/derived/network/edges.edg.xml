@@ -1,0 +1,7 @@
+<edges>
+<edge id="approach" from="s" to="j" speed="13.89" numLanes="1"/>
+<edge id="main" from="j" to="m" speed="13.89" numLanes="1"/>
+<edge id="detour1" from="j" to="d" speed="13.89" numLanes="1"/>
+<edge id="detour2" from="d" to="m" speed="13.89" numLanes="1"/>
+<edge id="exit" from="m" to="e" speed="13.89" numLanes="1"/>
+</edges>

@@ -1,0 +1,14 @@
+{
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seed": 4101,
+  "horizon_s": 2400,
+  "step_s": 0.5,
+  "period_s": 5,
+  "signal_rule": "Change type to static only; preserve phase states, duration, offset and next attributes.",
+  "sensor_rule": "12 highest accepted-demand weighted signal controllers, deterministic ID tie break; E2 on passenger approaches longer than10m, at most80m; sensors observe only.",
+  "scope": "Development baseline, no policy comparison or field calibration"
+}

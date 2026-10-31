@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "mode": "fixed_2s",
+      "paced_steps": 200,
+      "pending_samples": 11,
+      "decision_sim_s": 10.2,
+      "service_s": 2.0044518330250867,
+      "max_pacing_lag_s": 0.007620457978919137,
+      "arrived": true
+    },
+    {
+      "mode": "fixed_9s",
+      "paced_steps": 200,
+      "pending_samples": 46,
+      "decision_sim_s": 17.2,
+      "service_s": 9.002486624987796,
+      "max_pacing_lag_s": 0.006122082972431997,
+      "arrived": true
+    },
+    {
+      "mode": "ollama",
+      "paced_steps": 200,
+      "pending_samples": 58,
+      "decision_sim_s": 19.6,
+      "service_s": 11.555551666999236,
+      "max_pacing_lag_s": 0.006036166963166778,
+      "arrived": true
+    }
+  ],
+  "remote_requests": 72,
+  "reserved_usd": 1.046466,
+  "note": "A single local inference observation is not a latency distribution or effectiveness estimate."
+}

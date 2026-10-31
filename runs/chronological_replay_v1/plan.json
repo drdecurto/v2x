@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    1,
+    6
+  ],
+  "source": "runs/city_infrastructure_v2/los_angeles/observations.jsonl",
+  "source_id": "RSU_0",
+  "epoch_s": 5,
+  "max_observation_age_s": 5,
+  "mode": "one redundant source snapshot per recorded packet, original TX timing and loss; latest causal 5s sensor record; drain all recorded arrivals",
+  "scope": "offline single-link stationary LTE trace sensitivity; not urban radio calibration, no audit/traffic feedback or new field measurements"
+}

@@ -1,0 +1,16 @@
+{
+  "runs/advisory_benchmark_v1/Qwen_Qwen3-30B-A3B-Instruct-2507.jsonl": "17acdd2f7eef7805a48d3b93debc38e1d123c35329435d6ee18bf58526e85e66",
+  "runs/advisory_benchmark_v1/nvidia_nemotron-3-super-120b-a12b.jsonl": "2da0cf0d21ffb56fbb514b5c88f3141cad791ceb6c6eae07ba1bbb4dea221c1b",
+  "runs/advisory_benchmark_v1/openai_gpt-oss-120b.jsonl": "eeea4c2270d1db9817905f8f71b1ca5c13289a678dce5b2fd73f63e38eaf5e20",
+  "runs/advisory_structured_local_v1/qwen2.5_14b.jsonl": "27a74ed13e8b8067b969970b167a24c30edc8e51f503b4e94a1ee40c9d036556",
+  "runs/advisory_structured_local_v1/phi4_latest.jsonl": "0c87b127946ab55965054e804c356ea418d4f00e438c60ecca0df9104fac0235",
+  "runs/advisory_structured_local_v1/llama3.1_8b.jsonl": "d492dd5394451cb43ae213055303bb9ab58f2e669a1833095d34504916745b78",
+  "runs/chronological_replay_v1/1/emissions.jsonl": "e78fab7de02ee0a6aab1e261097e7d43b1c7c519a27e32789f7c29d08009e654",
+  "runs/chronological_replay_v1/6/emissions.jsonl": "57e1687293e7b518cbb2932d8f43d3117d6fd49a129889596e43336cebf00e8a",
+  "runs/advisory_benchmark_v1/cases.json": "7048165058e6e8878b67ddefa6b704b5dec742dbad9e09b5df03c3453a4dda19",
+  "scripts/replay_frozen_advisories.py": "f94d7990f5d74f306f8bb465de6924ef49e01095649f82b5b6a7baa9ef23c970",
+  "src/v2x/consumer.py": "064e453b7891f95550182275be9636268125a0fbc5c7753966b1d91972e74543",
+  "src/v2x/evidence.py": "3e57076b3dd85519633df8223a847ec966c04bad01f15dd2da2a4ae208076f1f",
+  "src/v2x/policy.py": "9724a614ef730dad22008f0da6d1dabd7fa20f86360fe38efd2dfb679c3a61da",
+  "runs/frozen_advisory_replay_v1/plan.json": "07ce8f6d3ba83ffa40aa1d25e0fbe5abaa3fe1e19ae685f4cd1d507b7bf65db2"
+}

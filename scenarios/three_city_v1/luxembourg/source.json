@@ -1,0 +1,26 @@
+{
+  "url": "https://api.openstreetmap.org/api/0.6/map?bbox=6.118,49.594,6.145,49.618",
+  "tile_urls": [
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1180000,49.5940000,6.1270000,49.6020000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1180000,49.6020000,6.1270000,49.6100000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1180000,49.6100000,6.1270000,49.6180000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1270000,49.5940000,6.1360000,49.6020000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1270000,49.6020000,6.1360000,49.6100000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1270000,49.6100000,6.1360000,49.6180000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1360000,49.5940000,6.1450000,49.6020000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1360000,49.6020000,6.1450000,49.6100000",
+    "https://api.openstreetmap.org/api/0.6/map?bbox=6.1360000,49.6100000,6.1450000,49.6180000"
+  ],
+  "bbox": [
+    6.118,
+    49.594,
+    6.145,
+    49.618
+  ],
+  "downloaded_utc": "2026-10-30T01:56:25.023738+00:00",
+  "sha256": "e6c3c6f92236d5641f36c6aa514d3ddf8e55145fc74fceb542b7694034ead9c5",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license": "ODbL",
+  "license_url": "https://www.openstreetmap.org/copyright",
+  "assembly": "deduplicated by element type/id, sorted nodes before ways before relations"
+}

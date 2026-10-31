@@ -1,0 +1,47 @@
+{
+  "stage": "development_alignment_not_confirmatory",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seed": 4101,
+  "trace_profiles": [
+    1,
+    6
+  ],
+  "trace_epoch_s": 300,
+  "trace_offset_window_s": [
+    0,
+    90
+  ],
+  "advisory_departure_window_s": [
+    310,
+    370
+  ],
+  "interval_convention": "Left closed, right open for TX and scheduled departure",
+  "observation_period_s": 5,
+  "max_age_s": 5,
+  "simulation_horizon_s": 2400,
+  "closure_s": [
+    300,
+    900
+  ],
+  "compliance": [
+    0.25,
+    0.5,
+    1
+  ],
+  "routing": "Existing fixed route alternatives and nested draws; no replacement of demand",
+  "eligibility": "Scheduled departure in window, originally exposed, existing lane-preflighted alternative. Include eligible noncompliers, missed insertion/decision points, transport/audit failures in denominator.",
+  "rationale": "Fixed 300s background warm-up,10s receiver startup,60s cohort window,20s remaining TX support. No selecting windows from emissions, realized arrivals, packet delivery or auditor outcomes.",
+  "not_frozen": [
+    "held-out samples",
+    "new message/incident families",
+    "model revisions",
+    "deadline calibration",
+    "statistical analysis",
+    "mobile-trace validation"
+  ],
+  "paid_budget_changes": false
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "city": "los_angeles",
+    "mode": "actuated",
+    "vehicle_ids_checked": 600,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.16333492306676023,
+    "exact_rate_trip_reconciliation": false
+  },
+  {
+    "city": "los_angeles",
+    "mode": "static",
+    "vehicle_ids_checked": 600,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.13770231921481635,
+    "exact_rate_trip_reconciliation": false
+  },
+  {
+    "city": "luxembourg",
+    "mode": "actuated",
+    "vehicle_ids_checked": 600,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.029116233892856336,
+    "exact_rate_trip_reconciliation": false
+  },
+  {
+    "city": "luxembourg",
+    "mode": "static",
+    "vehicle_ids_checked": 600,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.015580459626307608,
+    "exact_rate_trip_reconciliation": false
+  },
+  {
+    "city": "pedralbes",
+    "mode": "actuated",
+    "vehicle_ids_checked": 577,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.013826217443579925,
+    "exact_rate_trip_reconciliation": false
+  },
+  {
+    "city": "pedralbes",
+    "mode": "static",
+    "vehicle_ids_checked": 577,
+    "trip_total_verified": true,
+    "rate_integral_minus_trip_percent": -0.016374920178818808,
+    "exact_rate_trip_reconciliation": false
+  }
+]

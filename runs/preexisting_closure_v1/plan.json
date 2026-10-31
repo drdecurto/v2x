@@ -1,0 +1,26 @@
+{
+  "stage": "prospectively_narrowed_development_scenario",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seeds": [
+    4201,
+    4202,
+    4203,
+    4204
+  ],
+  "closure_s": [
+    0,
+    900
+  ],
+  "end_s": 2400,
+  "step_s": 0.5,
+  "information": "Perfect incident information; no communication or inference",
+  "uptake": 1,
+  "decision": "Once at actual departure for scheduled cohort, if still on first edge",
+  "all_blocks_retained": true,
+  "selection": "First four previously constructed seeds per city, fixed before these outcomes; closure before departure, not a repair of mid-run cases",
+  "inference_calls": 0
+}

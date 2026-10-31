@@ -1,0 +1,9 @@
+# Fixed-signal sensitivity and regenerated observation sensors
+
+Predeclared runs/static_sensors_v1/plan.json. Common v16 networks and identical accepted routes, seed4101,2400s horizon. Only tlLogic type changed to static; independent XML comparison confirms all other network elements, phase durations/states/offsets remain identical. Fixed-time semantics verified against official SUMO documentation: https://sumo.dlr.de/docs/Simulation/Traffic_Lights.html (checked2026-10-30). The actuated warnings indicate unusable controlling detectors for some phases/links; merely suppressing them is not a validation strategy.
+
+LA592arrived/8running of600accepted; Luxembourg600/600; Pedralbes577/577. Static timing eliminates detector-control warnings but Pedralbes has2emergency-braking events (vehicles65at273s and576at950.5s). Zero collisions/emergency stops/teleports. Full original request denominator1800 includes23Pedralbes preflight exclusions; static results1769arrived,8running,23excluded. No failed trip omitted. Fixed timing remains a sensitivity, not an adopted repair or optimized timing plan. Single-seed, no field calibration or model-policy comparison.
+
+Regenerated advisory E2 sensors at12 demand-ranked controllers/city:107LA,65Luxembourg,99Pedralbes. These observation-only detectors do not actuate signals.5760records/city,17280total. Positive vehicle observations1206/1977/2307. Independent checks verify sensor/controller identity, sample clock, finite occupancy and next-switch timestamps.9detector records have halting greater than present vehicles; keep separate semantics and never infer queue proportion from their ratio. Older screenshots remain tied to original imports.
+
+33tests pass. No local or remote inference calls. Next: diagnose LA residual traffic and bound signal-mode sensitivity; retain actuated reference with disclosed coverage limitations. Freeze prospective workload before policy outcomes, and validate suitable mobility traces.

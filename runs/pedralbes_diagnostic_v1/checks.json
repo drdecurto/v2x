@@ -1,0 +1,9 @@
+{
+  "same_66_vehicle_ids_at_2400_and_3600": true,
+  "arrived": 532,
+  "running": 66,
+  "pending": 2,
+  "all_running_waiting_over_600s": true,
+  "collisions": 0,
+  "teleports": 0
+}

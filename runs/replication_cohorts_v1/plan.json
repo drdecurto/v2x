@@ -1,0 +1,45 @@
+{
+  "stage": "development_feasibility_not_confirmatory",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seeds": [
+    4201,
+    4202,
+    4203,
+    4204,
+    4205,
+    4206,
+    4207,
+    4208,
+    4209,
+    4210,
+    4211,
+    4212,
+    4213,
+    4214,
+    4215,
+    4216,
+    4217,
+    4218,
+    4219,
+    4220
+  ],
+  "requests": 600,
+  "departure_window": [
+    310,
+    370
+  ],
+  "trace_epoch": 300,
+  "trace_offsets": [
+    0,
+    90
+  ],
+  "fixed_incident": "Retain v19 edge selected on development seed4101; do not reselect on new cohorts",
+  "demand": "randomTrips,common preflight network,0..900s,period1.5,min600m,max2500m,fringe5",
+  "retention": "No replacement of unroutable/lane-infeasible requests or empty cohorts. Record closed-endpoint incompatibility; do not execute such a block without a separate prospective incident protocol.",
+  "scope": "60 independently initialized demand constructions, not60 independent radio recordings or completed traffic experiments",
+  "stop_rule": "Exactly20 seeds per city; no stopping or seed selection by eligible count"
+}

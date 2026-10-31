@@ -1,0 +1,474 @@
+{
+  "verified": true,
+  "calls": 32,
+  "parse_success": 32,
+  "summary": [
+    {
+      "model": "llama3.1:8b",
+      "policy": "none",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 6,
+      "uncertain_admitted": 3,
+      "modes": {
+        "unchecked": 16
+      },
+      "max_decision_s": 0
+    },
+    {
+      "model": "llama3.1:8b",
+      "policy": "rules",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 0,
+      "uncertain_admitted": 3,
+      "modes": {
+        "verified_template": 16
+      },
+      "max_decision_s": 0
+    },
+    {
+      "model": "llama3.1:8b",
+      "policy": "content",
+      "stable_cases": 12,
+      "clean_admitted": 2,
+      "violating_texts": 0,
+      "uncertain_admitted": 1,
+      "modes": {
+        "evidence_unavailable": 2,
+        "content_accept": 3,
+        "content_reject": 8,
+        "audit_version_changed": 1,
+        "invalid_or_expired": 1,
+        "decision_point_passed": 1
+      },
+      "max_decision_s": 5.008508333005011
+    },
+    {
+      "model": "llama3.1:8b",
+      "policy": "deadline",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 0,
+      "uncertain_admitted": 1,
+      "modes": {
+        "verified_template": 5,
+        "content_reject": 7,
+        "evidence_unavailable": 1,
+        "audit_version_changed": 1,
+        "invalid_or_expired": 1,
+        "decision_point_passed": 1
+      },
+      "max_decision_s": 2.010022290982306
+    },
+    {
+      "model": "phi4:latest",
+      "policy": "none",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 6,
+      "uncertain_admitted": 3,
+      "modes": {
+        "unchecked": 16
+      },
+      "max_decision_s": 0
+    },
+    {
+      "model": "phi4:latest",
+      "policy": "rules",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 0,
+      "uncertain_admitted": 3,
+      "modes": {
+        "verified_template": 16
+      },
+      "max_decision_s": 0
+    },
+    {
+      "model": "phi4:latest",
+      "policy": "content",
+      "stable_cases": 12,
+      "clean_admitted": 0,
+      "violating_texts": 0,
+      "uncertain_admitted": 0,
+      "modes": {
+        "evidence_unavailable": 11,
+        "content_reject": 2,
+        "audit_missing": 1,
+        "invalid_or_expired": 1,
+        "decision_point_passed": 1
+      },
+      "max_decision_s": 5.011129249993246
+    },
+    {
+      "model": "phi4:latest",
+      "policy": "deadline",
+      "stable_cases": 12,
+      "clean_admitted": 3,
+      "violating_texts": 0,
+      "uncertain_admitted": 3,
+      "modes": {
+        "verified_template": 13,
+        "evidence_unavailable": 1,
+        "invalid_or_expired": 1,
+        "decision_point_passed": 1
+      },
+      "max_decision_s": 2.005102541996166
+    }
+  ],
+  "timing_cases": [
+    {
+      "model": "llama3.1:8b",
+      "case": "stale",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 1.8513256249716505,
+          "soft_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "evidence_unavailable",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 1.8513383329845965,
+          "hard_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "evidence_unavailable",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "llama3.1:8b",
+      "case": "superseded",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 1.6740974999847822,
+          "soft_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "audit_version_changed",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 1.674111666972749,
+          "hard_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "audit_version_changed",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "llama3.1:8b",
+      "case": "expired",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 2.010021040972788,
+          "soft_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "invalid_or_expired",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 2.2600509579642676,
+          "hard_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "invalid_or_expired",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "llama3.1:8b",
+      "case": "choice_passed",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 1.8774604169884697,
+          "soft_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "decision_point_passed",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 1.87747687502997,
+          "hard_timeout": false,
+          "decision": {
+            "admit": false,
+            "mode": "decision_point_passed",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "phi4:latest",
+      "case": "stale",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 2.000214874977246,
+          "soft_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "evidence_unavailable",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 5.005069707985967,
+          "hard_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "evidence_unavailable",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "phi4:latest",
+      "case": "superseded",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 2.001989665965084,
+          "soft_timeout": true,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "content": {
+          "at_s": 5.002318165963516,
+          "hard_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "audit_missing",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "phi4:latest",
+      "case": "expired",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 2.00334583298536,
+          "soft_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "invalid_or_expired",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 5.004109166970011,
+          "hard_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "invalid_or_expired",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    },
+    {
+      "model": "phi4:latest",
+      "case": "choice_passed",
+      "decisions": {
+        "none": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "unchecked",
+            "text": true,
+            "action": "detour"
+          }
+        },
+        "rules": {
+          "at_s": 0,
+          "decision": {
+            "admit": true,
+            "mode": "verified_template",
+            "text": false,
+            "action": "detour"
+          }
+        },
+        "deadline": {
+          "at_s": 2.0040647920104675,
+          "soft_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "decision_point_passed",
+            "text": false,
+            "action": null
+          }
+        },
+        "content": {
+          "at_s": 5.000598500017077,
+          "hard_timeout": true,
+          "decision": {
+            "admit": false,
+            "mode": "decision_point_passed",
+            "text": false,
+            "action": null
+          }
+        }
+      }
+    }
+  ]
+}

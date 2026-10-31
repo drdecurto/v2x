@@ -1,0 +1,14 @@
+[
+  {
+    "model":"nvidia\/nemotron-3-super-120b-a12b",
+    "n":24,
+    "median_s":1.3146692085,
+    "max_s":10.054009666
+  },
+  {
+    "model":"openai\/gpt-oss-120b",
+    "n":24,
+    "median_s":0.327364125,
+    "max_s":0.653533958
+  }
+]

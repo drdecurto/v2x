@@ -1,0 +1,26 @@
+[
+  {
+    "city": "los_angeles",
+    "packet_records": 4949,
+    "received": 3431,
+    "decision_records": 66,
+    "co2_kg": "652.51980888",
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "packet_records": 4949,
+    "received": 3431,
+    "decision_records": 116,
+    "co2_kg": "488.87641579",
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "packet_records": 4949,
+    "received": 3431,
+    "decision_records": 81,
+    "co2_kg": "494.42909197",
+    "passed": true
+  }
+]

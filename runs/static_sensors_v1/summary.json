@@ -1,0 +1,68 @@
+[
+  {
+    "city": "los_angeles",
+    "accepted": 600,
+    "arrived": 592,
+    "running": 8,
+    "pending": 0,
+    "rsus": 12,
+    "detectors": 107,
+    "records": 5760,
+    "positive_records": 1206,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "accepted": 600,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "rsus": 12,
+    "detectors": 65,
+    "records": 5760,
+    "positive_records": 1977,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "accepted": 577,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "rsus": 12,
+    "detectors": 99,
+    "records": 5760,
+    "positive_records": 2307,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "2"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  }
+]

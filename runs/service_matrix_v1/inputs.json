@@ -1,0 +1,7 @@
+{
+  "nebius_development.jsonl": "eb7345184a7119c533bc4eae6f8b2c0318984f999fab1d52b3d3130338135c84",
+  "nebius_multimodel_development.jsonl": "20251bfb72637eb4cf9d1078ac49aee53e86dbbaa54c29ce80a2d9f5554922e8",
+  "ollama_qwen2.5_14b_development.jsonl": "6b77d7c55f56c40d13849f6857e875e52ee5486cae1ef29bc9429a2573d4fe6e",
+  "ollama_phi4_latest_development.jsonl": "83d57d1d5181c4c27b04698dc5249d718e4c87e3bc14849754cf8423ef99c252",
+  "ollama_llama3.1_8b_development.jsonl": "b8b88406fd771fe38bd86c1bd8c2b76d604b30e7d1f426b516f97f3aa397deea"
+}

@@ -1,0 +1,150 @@
+{
+  "passed": true,
+  "transition_blocks": 13,
+  "entries": 17,
+  "topology": [
+    {
+      "city": "los_angeles",
+      "seed": 4206,
+      "vehicle_id": "77",
+      "internal_lane": ":72027628_7_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4208,
+      "vehicle_id": "22",
+      "internal_lane": ":1736499199_5_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4209,
+      "vehicle_id": "173",
+      "internal_lane": ":72027616_4_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4211,
+      "vehicle_id": "125",
+      "internal_lane": ":72027616_4_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4213,
+      "vehicle_id": "108",
+      "internal_lane": ":72027653_5_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4213,
+      "vehicle_id": "133",
+      "internal_lane": ":72027653_5_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4216,
+      "vehicle_id": "69",
+      "internal_lane": ":72027653_5_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4217,
+      "vehicle_id": "123",
+      "internal_lane": ":72027628_7_2",
+      "connects_to_incident": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4204,
+      "vehicle_id": "110",
+      "internal_lane": ":31003697_3_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4212,
+      "vehicle_id": "67",
+      "internal_lane": ":cluster_247325432_255919324_4_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4212,
+      "vehicle_id": "87",
+      "internal_lane": ":cluster_247325432_255919324_4_1",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4209,
+      "vehicle_id": "107",
+      "internal_lane": ":365287928_2_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4209,
+      "vehicle_id": "123",
+      "internal_lane": ":365287928_2_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4211,
+      "vehicle_id": "167",
+      "internal_lane": ":30294569_1_1",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4216,
+      "vehicle_id": "112",
+      "internal_lane": ":365287928_13_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4216,
+      "vehicle_id": "114",
+      "internal_lane": ":365287928_13_0",
+      "connects_to_incident": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4217,
+      "vehicle_id": "163",
+      "internal_lane": ":365287928_13_0",
+      "connects_to_incident": true
+    }
+  ],
+  "selected_controls": [
+    {
+      "city": "los_angeles",
+      "seed": 4211,
+      "running_with_closure": 16,
+      "running_without_closure": 0,
+      "same_departure_detours": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4219,
+      "running_with_closure": 20,
+      "running_without_closure": 0,
+      "same_departure_detours": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4219,
+      "running_with_closure": 120,
+      "running_without_closure": 0,
+      "same_departure_detours": true
+    }
+  ],
+  "scope": "Outcome-selected development diagnostics; no population effect estimate"
+}

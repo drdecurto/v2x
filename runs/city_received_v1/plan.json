@@ -1,0 +1,24 @@
+{
+  "stage": "development_integration",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seed": 4101,
+  "profile": 6,
+  "epoch_s": 0,
+  "observation_period_s": 5,
+  "max_age_s": 5,
+  "step_s": 0.5,
+  "end_s": 2400,
+  "closure_s": [
+    0,
+    900
+  ],
+  "compliance": 0.5,
+  "policy": "rules",
+  "decision": "Once on departure, only if still on original first edge; no later retry",
+  "communication": "One shared finite stationary LTE link per city; no looping/time scaling; all late departures retain unavailable evidence",
+  "inference_calls": 0
+}

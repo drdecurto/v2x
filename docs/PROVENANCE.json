@@ -1,0 +1,2228 @@
+[
+  {
+    "path": "src/v2x/simulation.py",
+    "source_sha256": "9621ea0762b45bc744a8b55caab78ebaefeaa0938fc3ce35b1cda32d14f2f30a",
+    "package_sha256": "9621ea0762b45bc744a8b55caab78ebaefeaa0938fc3ce35b1cda32d14f2f30a",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/credentials.py",
+    "source_sha256": "afa74538809ff23c2be5ea66f518db2e2966351fc7b8235e622a1bfa34f328c4",
+    "package_sha256": "afa74538809ff23c2be5ea66f518db2e2966351fc7b8235e622a1bfa34f328c4",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/incident.py",
+    "source_sha256": "2c3c63d88a3f639fd7eacb15910bac37445e515ca0ae2861fc35ddf5dbf94f8c",
+    "package_sha256": "2c3c63d88a3f639fd7eacb15910bac37445e515ca0ae2861fc35ddf5dbf94f8c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/city_consumer.py",
+    "source_sha256": "66817a72ca0284ea24fe42c7323ba91637f8059be2cd092724274a86691f283f",
+    "package_sha256": "66817a72ca0284ea24fe42c7323ba91637f8059be2cd092724274a86691f283f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/policy.py",
+    "source_sha256": "9724a614ef730dad22008f0da6d1dabd7fa20f86360fe38efd2dfb679c3a61da",
+    "package_sha256": "9724a614ef730dad22008f0da6d1dabd7fa20f86360fe38efd2dfb679c3a61da",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/__init__.py",
+    "source_sha256": "0603aa6c8c2aeedebb14600299a56d2f61969ebfb0507261dbc9316e362253b5",
+    "package_sha256": "0603aa6c8c2aeedebb14600299a56d2f61969ebfb0507261dbc9316e362253b5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/replay.py",
+    "source_sha256": "91a3a1ebc37676f4fba9aac68916df4c6f98a705e3a7d7e9929465fecaca0c3f",
+    "package_sha256": "91a3a1ebc37676f4fba9aac68916df4c6f98a705e3a7d7e9929465fecaca0c3f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/consumer.py",
+    "source_sha256": "064e453b7891f95550182275be9636268125a0fbc5c7753966b1d91972e74543",
+    "package_sha256": "064e453b7891f95550182275be9636268125a0fbc5c7753966b1d91972e74543",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/traces.py",
+    "source_sha256": "c134ed04e57d8e7ea0ed7c001da7ba24d8eb8dcd7fedc21683e6e1e9fd92fdf5",
+    "package_sha256": "c134ed04e57d8e7ea0ed7c001da7ba24d8eb8dcd7fedc21683e6e1e9fd92fdf5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x/evidence.py",
+    "source_sha256": "3e57076b3dd85519633df8223a847ec966c04bad01f15dd2da2a4ae208076f1f",
+    "package_sha256": "3e57076b3dd85519633df8223a847ec966c04bad01f15dd2da2a4ae208076f1f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x_advisory_governance.egg-info/PKG-INFO",
+    "source_sha256": "cfa330e667bb0a55fe7e6fc6f79502e70e2ed8344818370c5b1fa6f949d24208",
+    "package_sha256": "cfa330e667bb0a55fe7e6fc6f79502e70e2ed8344818370c5b1fa6f949d24208",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x_advisory_governance.egg-info/SOURCES.txt",
+    "source_sha256": "573f45699ac7f30a9d9d8965feff53ab19a3fde903c4cfd5b48da20e57ebd537",
+    "package_sha256": "573f45699ac7f30a9d9d8965feff53ab19a3fde903c4cfd5b48da20e57ebd537",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x_advisory_governance.egg-info/requires.txt",
+    "source_sha256": "cd35da117e31ce38ddfd430635cd444f490ef61c9668045f3cf833ff785ed4c7",
+    "package_sha256": "cd35da117e31ce38ddfd430635cd444f490ef61c9668045f3cf833ff785ed4c7",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x_advisory_governance.egg-info/top_level.txt",
+    "source_sha256": "a01b266f8d7dfecc23fb76b0298e6e65b7478e33238072d9b6dedeb5a1fd56eb",
+    "package_sha256": "a01b266f8d7dfecc23fb76b0298e6e65b7478e33238072d9b6dedeb5a1fd56eb",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "src/v2x_advisory_governance.egg-info/dependency_links.txt",
+    "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "package_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_incident.py",
+    "source_sha256": "c19122ebe0ecd0c8a6deb366d6e8c2078f89ba99c30684a3d8511a3971adea50",
+    "package_sha256": "c19122ebe0ecd0c8a6deb366d6e8c2078f89ba99c30684a3d8511a3971adea50",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_replay.py",
+    "source_sha256": "e730954daa31db48383488328762e00c26e000fb397860e1bd82857b85fdf12f",
+    "package_sha256": "e730954daa31db48383488328762e00c26e000fb397860e1bd82857b85fdf12f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_traces.py",
+    "source_sha256": "b32ccd2fa4bbc29819d24715c30dbfe3f2dea300fcd65a472e4059f8c769f303",
+    "package_sha256": "b32ccd2fa4bbc29819d24715c30dbfe3f2dea300fcd65a472e4059f8c769f303",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_city_consumer.py",
+    "source_sha256": "ab4ef486278c3fb4ed7c2766931c8136db33778b89dc045a8ca28554d07e3277",
+    "package_sha256": "ab4ef486278c3fb4ed7c2766931c8136db33778b89dc045a8ca28554d07e3277",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_policies.py",
+    "source_sha256": "b3dfa5ec6a14b0b11427c364c14d853ca4199e49c3af45b6ce33a2c33456bd06",
+    "package_sha256": "b3dfa5ec6a14b0b11427c364c14d853ca4199e49c3af45b6ce33a2c33456bd06",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_evidence.py",
+    "source_sha256": "7b9844193e5e3692e043707cd810efce286a0cbd83f7d199ab1e231a2fcafae0",
+    "package_sha256": "7b9844193e5e3692e043707cd810efce286a0cbd83f7d199ab1e231a2fcafae0",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "tests/test_consumer.py",
+    "source_sha256": "b3ee8f059a3db0aa9474f0b9b3dede95f9bd02a3a283b31d1a9e3dbb6d608b1a",
+    "package_sha256": "b3ee8f059a3db0aa9474f0b9b3dede95f9bd02a3a283b31d1a9e3dbb6d608b1a",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "protocols/environmental_advisories_v1.md",
+    "source_sha256": "c9941e53ef659e5b3508ad5d31f3968ed5472db7fc07001ec9831422e23ebff3",
+    "package_sha256": "c9941e53ef659e5b3508ad5d31f3968ed5472db7fc07001ec9831422e23ebff3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/README.txt",
+    "source_sha256": "9e3f39d1bb1a9c0ae07b7a016037f22f5cc4b84fb7b89290c8f6f67950c73e1f",
+    "package_sha256": "9e3f39d1bb1a9c0ae07b7a016037f22f5cc4b84fb7b89290c8f6f67950c73e1f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/source.json",
+    "source_sha256": "91c79661a34e0cb849ac6444bd363ee3197bcca591a9286116944e01c75a04e0",
+    "package_sha256": "91c79661a34e0cb849ac6444bd363ee3197bcca591a9286116944e01c75a04e0",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/city.net.xml",
+    "source_sha256": "1a4a94c752e4cc60429f1e65fe14cc3abcf82327cc370611872997fd963d0c1a",
+    "package_sha256": "47eb9e0b2f31a4ca81249d2a2472e2b1f7d64c2aae70977cde418b44ed2f2bc1",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/scenario.sumocfg",
+    "source_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "package_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/routes.rou.xml",
+    "source_sha256": "f8836a3f0a7a00aba0a4fff744433e5760faf0036b3710d69ca3b5878eeb34f3",
+    "package_sha256": "af2126782a3652b6bf2c9efe2d33786f07a767bf6f856e6100a00c1ae7fa697d",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/recorded_validation.json",
+    "source_sha256": "a70d0d11219aa5e2ff32eaa7b86d9ac2386e86c97d655b8ecf1ca068cfcdef24",
+    "package_sha256": "a70d0d11219aa5e2ff32eaa7b86d9ac2386e86c97d655b8ecf1ca068cfcdef24",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/buildings.poly.xml",
+    "source_sha256": "34b81fa320a620598bc0575aa5604b3d4a811d83021609d02f00af74c79f6086",
+    "package_sha256": "34b81fa320a620598bc0575aa5604b3d4a811d83021609d02f00af74c79f6086",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/infrastructure.add.xml",
+    "source_sha256": "521ccf008f9bf39d3e70cabb22159f9b3663f03fab5f80a65fc19e0907a59a62",
+    "package_sha256": "521ccf008f9bf39d3e70cabb22159f9b3663f03fab5f80a65fc19e0907a59a62",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/luxembourg/infrastructure.json",
+    "source_sha256": "2d7a4cd3b91eaeba507a18887dc8e2b6830cc5b8a307c9149ebef4fce78586cb",
+    "package_sha256": "2d7a4cd3b91eaeba507a18887dc8e2b6830cc5b8a307c9149ebef4fce78586cb",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/source.json",
+    "source_sha256": "4a5aa0dcba8242672bbbdb09da1c1478be01bd979b3e2b7b0fdb5204e8803817",
+    "package_sha256": "4a5aa0dcba8242672bbbdb09da1c1478be01bd979b3e2b7b0fdb5204e8803817",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/city.net.xml",
+    "source_sha256": "8c3fdb00019b5aa310347385a3cbff88622395ddefc4ae7437b73f9fd601c4fa",
+    "package_sha256": "cc6155e520b38f6913172341e98f7f6731b2bd9fa7c52d28d1a11d15c20b9d0f",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/scenario.sumocfg",
+    "source_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "package_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/routes.rou.xml",
+    "source_sha256": "a5be92f8a3782468673ed615461cdcfc3df66ab86d6391e2278ca41ad33f4e36",
+    "package_sha256": "a7a896f45d5eec3cd08c3023a5cafc5bb090bb239eacfb62493cf4b60131e596",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/recorded_validation.json",
+    "source_sha256": "00f09d7a2592aaf0bfed34f97aebc4ed08e1a6ba5d74d227733a216594b66d26",
+    "package_sha256": "00f09d7a2592aaf0bfed34f97aebc4ed08e1a6ba5d74d227733a216594b66d26",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/buildings.poly.xml",
+    "source_sha256": "8b38a2d08962716d213e45488596193a2029150e6413fdc50da1d041a6b82d14",
+    "package_sha256": "8b38a2d08962716d213e45488596193a2029150e6413fdc50da1d041a6b82d14",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/infrastructure.add.xml",
+    "source_sha256": "7a5f38089abe3df32611c2a1cde9323d7313108c5060d74a58cdea7ac0bfc89a",
+    "package_sha256": "7a5f38089abe3df32611c2a1cde9323d7313108c5060d74a58cdea7ac0bfc89a",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/pedralbes/infrastructure.json",
+    "source_sha256": "59d7bf53258f8b188f5831167e69f645326ddb74896253922896196c05056e31",
+    "package_sha256": "59d7bf53258f8b188f5831167e69f645326ddb74896253922896196c05056e31",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/source.json",
+    "source_sha256": "e797c29f632a60bc84c0deb06e01430781a94d94615e689b8a865eae6478703a",
+    "package_sha256": "e797c29f632a60bc84c0deb06e01430781a94d94615e689b8a865eae6478703a",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/city.net.xml",
+    "source_sha256": "b8ab7e2d6a2ffc231d3541b7ec607ee1a9c98e131456eaf047c5f2933cda8621",
+    "package_sha256": "b8ab7e2d6a2ffc231d3541b7ec607ee1a9c98e131456eaf047c5f2933cda8621",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/scenario.sumocfg",
+    "source_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "package_sha256": "29183a3ec1b5b069aee30a9ddb0037ee4af8aa58f5df9987b7a42d1aa9f54f48",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/routes.rou.xml",
+    "source_sha256": "f807217e3970ea4e163099330746039ccabf77fca474bb04da2c67aacda8223b",
+    "package_sha256": "0a27914205e56c20172872392decdf333b235a88245ccb9bf704f76719388b0f",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/recorded_validation.json",
+    "source_sha256": "000126b1a99ad5a199e220419c6963d2b6ba39f4d206b17d9a2d710016be63c9",
+    "package_sha256": "000126b1a99ad5a199e220419c6963d2b6ba39f4d206b17d9a2d710016be63c9",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/buildings.poly.xml",
+    "source_sha256": "2b645cc7bf283ed40e015b0e754840b2ba38ea4bbbf608d8cc5154a6f9528fc1",
+    "package_sha256": "2b645cc7bf283ed40e015b0e754840b2ba38ea4bbbf608d8cc5154a6f9528fc1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/infrastructure.add.xml",
+    "source_sha256": "7adf404ff1f3710b49706f0cef613e3b32f50d46c7c7ce494fd49c627380b3d7",
+    "package_sha256": "7adf404ff1f3710b49706f0cef613e3b32f50d46c7c7ce494fd49c627380b3d7",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scenarios/three_city_v1/los_angeles/infrastructure.json",
+    "source_sha256": "431fe52f13726f7efff1ab0ec42646459a134a563f1be96f3ca954fbf35dba34",
+    "package_sha256": "431fe52f13726f7efff1ab0ec42646459a134a563f1be96f3ca954fbf35dba34",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_service_matrix.py",
+    "source_sha256": "0b2287f8c197922495c0d67268edbfe49506c5ba86a3f11a412401e0e270b442",
+    "package_sha256": "0b2287f8c197922495c0d67268edbfe49506c5ba86a3f11a412401e0e270b442",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_city_consumer.py",
+    "source_sha256": "a2a4b5621114a8a1f4b412689a2f2b6c162c3df4e2f953dacd83ac93e1e29349",
+    "package_sha256": "a2a4b5621114a8a1f4b412689a2f2b6c162c3df4e2f953dacd83ac93e1e29349",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/service_time_sweep.py",
+    "source_sha256": "ffec424b8418628602148ef8383f13a80deddb211be787d4fc02b59a7c3aa2b6",
+    "package_sha256": "ffec424b8418628602148ef8383f13a80deddb211be787d4fc02b59a7c3aa2b6",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_live_stream.py",
+    "source_sha256": "db1c0b27db7c6bfd541f49b728f13b68a362c0525eb383d2939e19416ffbf97d",
+    "package_sha256": "db1c0b27db7c6bfd541f49b728f13b68a362c0525eb383d2939e19416ffbf97d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/freeze_alignment.py",
+    "source_sha256": "f6dc4863471dd07a1a038516ce324cf223cd6c5d8e222269b7317e828878a5b3",
+    "package_sha256": "f6dc4863471dd07a1a038516ce324cf223cd6c5d8e222269b7317e828878a5b3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_freshness_coverage.py",
+    "source_sha256": "d88a6207803aaaebfb14cf361a07c797c0385aa2bec7ade72947e5a9c300d450",
+    "package_sha256": "d88a6207803aaaebfb14cf361a07c797c0385aa2bec7ade72947e5a9c300d450",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/diagnose_reopening.py",
+    "source_sha256": "0d6c60be27866dda6d099460231f0a62cb67e173d66770a06b439e242c8b45eb",
+    "package_sha256": "0d6c60be27866dda6d099460231f0a62cb67e173d66770a06b439e242c8b45eb",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/capture_la.py",
+    "source_sha256": "7ddd6512a975d477fba8e1e51e09f8a783d8b0bb41a873956e5180cf9f08b01c",
+    "package_sha256": "7ddd6512a975d477fba8e1e51e09f8a783d8b0bb41a873956e5180cf9f08b01c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_consumer_stream.py",
+    "source_sha256": "129576bbd3e5551e4d6b3f11ab3619fe2b511415365a6978fc35fddde01b19f2",
+    "package_sha256": "129576bbd3e5551e4d6b3f11ab3619fe2b511415365a6978fc35fddde01b19f2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_trace_replay.py",
+    "source_sha256": "661c6608b163e3bed477ebe4ab64b850d7a9a79952dcf3f703ac9bf2665bbcde",
+    "package_sha256": "661c6608b163e3bed477ebe4ab64b850d7a9a79952dcf3f703ac9bf2665bbcde",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/profile_ollama.py",
+    "source_sha256": "dfe4024105639349bbe2247f6d9bf95dffde5e8ae8a35baebb985cf835758d1d",
+    "package_sha256": "dfe4024105639349bbe2247f6d9bf95dffde5e8ae8a35baebb985cf835758d1d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/profile_nebius.py",
+    "source_sha256": "fa3225ac08c5c64db6527f2d29951b131db14c030536226180f78f61d8b96782",
+    "package_sha256": "fa3225ac08c5c64db6527f2d29951b131db14c030536226180f78f61d8b96782",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/city_policy_local.py",
+    "source_sha256": "db46ed30e43d39f825a46dfd8d814c5c1da43be3dec81b2c988c20dc77260991",
+    "package_sha256": "db46ed30e43d39f825a46dfd8d814c5c1da43be3dec81b2c988c20dc77260991",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_preflight.py",
+    "source_sha256": "c46e7fca24f2de7fd4cebe2c29277634be3b946a665d27642d04b90d21b41692",
+    "package_sha256": "c46e7fca24f2de7fd4cebe2c29277634be3b946a665d27642d04b90d21b41692",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_static_sensors.py",
+    "source_sha256": "195c2fa674cac60aad270cb1821bb1920e767e049f1bc302b59ac336fdbe5930",
+    "package_sha256": "195c2fa674cac60aad270cb1821bb1920e767e049f1bc302b59ac336fdbe5930",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_replication_incidents.py",
+    "source_sha256": "315446d37d25d3c7affc27a661b209723f4a233bd3fecd956b92e663021c321e",
+    "package_sha256": "315446d37d25d3c7affc27a661b209723f4a233bd3fecd956b92e663021c321e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_consumer_stream.py",
+    "source_sha256": "9eb5a67b5f36afebb48576f8d162cc14e392274af50b5ff5672912c890e8507f",
+    "package_sha256": "9eb5a67b5f36afebb48576f8d162cc14e392274af50b5ff5672912c890e8507f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/capture_city_suite.py",
+    "source_sha256": "a1425b6705394fbb875ac623b6f42bcbc313b333e2eef540068a039f06440f3b",
+    "package_sha256": "a1425b6705394fbb875ac623b6f42bcbc313b333e2eef540068a039f06440f3b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_city_suite.py",
+    "source_sha256": "ca174ee6bfe2409bf3e5f62e6cd27a2ffae7ab8bd3e74efe24a4ae1318524242",
+    "package_sha256": "ca174ee6bfe2409bf3e5f62e6cd27a2ffae7ab8bd3e74efe24a4ae1318524242",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/pull_ollama.py",
+    "source_sha256": "84a8a238947e73ea8147e2962c330813526614de5ebbeeff934b18c766b24a56",
+    "package_sha256": "84a8a238947e73ea8147e2962c330813526614de5ebbeeff934b18c766b24a56",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/diagnose_no_closure.py",
+    "source_sha256": "79f24a18a592932d6d88c20e1f2cd7562b08e12d2df04b7b58a5235092b3d86c",
+    "package_sha256": "79f24a18a592932d6d88c20e1f2cd7562b08e12d2df04b7b58a5235092b3d86c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_city_preflight.py",
+    "source_sha256": "fcc7857ca9ce4e8caccb737eed61117ba944655dbe343007243d72d2e12250dc",
+    "package_sha256": "fcc7857ca9ce4e8caccb737eed61117ba944655dbe343007243d72d2e12250dc",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_async.py",
+    "source_sha256": "7902bda71a9e0518a4d0e28c6225ad158b9bb405800c1dfae4ce53574f7d63fc",
+    "package_sha256": "7902bda71a9e0518a4d0e28c6225ad158b9bb405800c1dfae4ce53574f7d63fc",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_static_sensors.py",
+    "source_sha256": "5d113f01cc8a74c931caed6b9f7df70ad756988d0fee22df5e948cd25784db57",
+    "package_sha256": "5d113f01cc8a74c931caed6b9f7df70ad756988d0fee22df5e948cd25784db57",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_service_time_sweep.py",
+    "source_sha256": "c23bf9efc83c42f6a8f7d95c22c16a4f4e85f2902f52266bb4125df3441c3d1c",
+    "package_sha256": "c23bf9efc83c42f6a8f7d95c22c16a4f4e85f2902f52266bb4125df3441c3d1c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_suite.py",
+    "source_sha256": "ae156fe6355140df7c2ad58de0aee13e9a1f58c25bb794f0cca18ba18e04f61c",
+    "package_sha256": "ae156fe6355140df7c2ad58de0aee13e9a1f58c25bb794f0cca18ba18e04f61c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_city_uptake.py",
+    "source_sha256": "936e5fcfa7fd8f70b18411639eb872ed67886c53a71109fbe4695c06f4dfb8e5",
+    "package_sha256": "936e5fcfa7fd8f70b18411639eb872ed67886c53a71109fbe4695c06f4dfb8e5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/select_la_incident.py",
+    "source_sha256": "fa0b8b782f165996c5a42f6f85d44ad27243e79c8bd9ed74406d1c4f51f4d739",
+    "package_sha256": "fa0b8b782f165996c5a42f6f85d44ad27243e79c8bd9ed74406d1c4f51f4d739",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_replication_dynamics.py",
+    "source_sha256": "f11a37e0e8c7344d4232f108302be1cd27a05b40d10ee94b6a79ca865b4b3d9f",
+    "package_sha256": "f11a37e0e8c7344d4232f108302be1cd27a05b40d10ee94b6a79ca865b4b3d9f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_consumer.py",
+    "source_sha256": "aa6b2c2627425d883ea93fb734b3d4b39d5ff423e61cbeeaf734e745f45115f2",
+    "package_sha256": "aa6b2c2627425d883ea93fb734b3d4b39d5ff423e61cbeeaf734e745f45115f2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/inspect_no_ramp.py",
+    "source_sha256": "91f2d01c0b92fa0ee12f379d9103a5e94443abfa9d6db0f1039238e208d80744",
+    "package_sha256": "91f2d01c0b92fa0ee12f379d9103a5e94443abfa9d6db0f1039238e208d80744",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/prepare_traces.py",
+    "source_sha256": "2f401e2bef91a092fb4e2374fc0f809b50cdd76b873983f05af42988f29d51e8",
+    "package_sha256": "5cbab3e66b9ded833a086e8655a9f095a0955f82f8fbe08e995a3c2ee367668e",
+    "sanitized": false,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "scripts/profile_multi.py",
+    "source_sha256": "2b389f6f6b18ac68d925b2153aaed07936248307f7a242cc1135d818a39559f8",
+    "package_sha256": "2b389f6f6b18ac68d925b2153aaed07936248307f7a242cc1135d818a39559f8",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_alignment.py",
+    "source_sha256": "a2ae9e3c08c4c826bea674308250d4afcfdb78942ab4b1de2c26cd37f4fa762d",
+    "package_sha256": "a2ae9e3c08c4c826bea674308250d4afcfdb78942ab4b1de2c26cd37f4fa762d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_frozen_advisories.py",
+    "source_sha256": "35c361f035ac48c194743f3d0b6ac609923c20a3ab5fae1721fc382ec4abe297",
+    "package_sha256": "35c361f035ac48c194743f3d0b6ac609923c20a3ab5fae1721fc382ec4abe297",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/test_reopening_refresh.py",
+    "source_sha256": "7df6fe4feb9c743bdae4caf324dcc925bf933130fdbad91de11c79269ec995a4",
+    "package_sha256": "7df6fe4feb9c743bdae4caf324dcc925bf933130fdbad91de11c79269ec995a4",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/diagnose_pedralbes.py",
+    "source_sha256": "da9d6174bbc195c58fde9689bbd2f0c18a7f00b0c450690c545e4b26014b352c",
+    "package_sha256": "da9d6174bbc195c58fde9689bbd2f0c18a7f00b0c450690c545e4b26014b352c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/summarize.py",
+    "source_sha256": "94eaa65b06eb6d9f834f358da2a63e52fca440409105b652915be48aa0945d61",
+    "package_sha256": "94eaa65b06eb6d9f834f358da2a63e52fca440409105b652915be48aa0945d61",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/capture_sumo.py",
+    "source_sha256": "057733dc7f8cec5c58899c61026e4ae5fdef619b14993a8e0e69ef12ed7b6665",
+    "package_sha256": "057733dc7f8cec5c58899c61026e4ae5fdef619b14993a8e0e69ef12ed7b6665",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_trace_replay.py",
+    "source_sha256": "1e9d842b3e73e5a6f9f0df904429e66d4efb687eaf019486ca5094b2f01a353d",
+    "package_sha256": "1e9d842b3e73e5a6f9f0df904429e66d4efb687eaf019486ca5094b2f01a353d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_messages.py",
+    "source_sha256": "b32883415e0943e8717c1693d4aa58ea32f3652ae172652c4964da250b3576d4",
+    "package_sha256": "b32883415e0943e8717c1693d4aa58ea32f3652ae172652c4964da250b3576d4",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/prepare_paired_city_stress.py",
+    "source_sha256": "b2d87dbc9bac9ef6b20a347d2b87208805dbd28787a394a9ab9dcc5db22f3002",
+    "package_sha256": "b2d87dbc9bac9ef6b20a347d2b87208805dbd28787a394a9ab9dcc5db22f3002",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_policy_bridge.py",
+    "source_sha256": "2864118fde6a038de6e3ef9bb3ae7c8716fbb969f010d27af375327973e7bb34",
+    "package_sha256": "2864118fde6a038de6e3ef9bb3ae7c8716fbb969f010d27af375327973e7bb34",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/check_nebius.py",
+    "source_sha256": "4001d2e542dd972e26fd3f29288ea845a3a7f8f985c7d1564fa57f890950c1a1",
+    "package_sha256": "4001d2e542dd972e26fd3f29288ea845a3a7f8f985c7d1564fa57f890950c1a1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_advisory_structured_local.py",
+    "source_sha256": "6fde61e97d3bd52a19d475a4283ee971a368b99627326e21de72cf70ceae92a1",
+    "package_sha256": "6fde61e97d3bd52a19d475a4283ee971a368b99627326e21de72cf70ceae92a1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/inspect_lane_access.py",
+    "source_sha256": "440756de45488272a56788702135c98d85a9f9b7d5b7eda740fb9a0feb6b2b11",
+    "package_sha256": "440756de45488272a56788702135c98d85a9f9b7d5b7eda740fb9a0feb6b2b11",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_incidents.py",
+    "source_sha256": "dadc5fcaff1358e6c304e856792a187909e27916a85b3064a9cacaf6a61ee190",
+    "package_sha256": "dadc5fcaff1358e6c304e856792a187909e27916a85b3064a9cacaf6a61ee190",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/replay_frozen_advisories.py",
+    "source_sha256": "f94d7990f5d74f306f8bb465de6924ef49e01095649f82b5b6a7baa9ef23c970",
+    "package_sha256": "f94d7990f5d74f306f8bb465de6924ef49e01095649f82b5b6a7baa9ef23c970",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_preflight.py",
+    "source_sha256": "f30ec6773b4bf0e1dffb3bada1bd85bc352eb2618836d21e996447006e2ddb74",
+    "package_sha256": "f30ec6773b4bf0e1dffb3bada1bd85bc352eb2618836d21e996447006e2ddb74",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_co2.py",
+    "source_sha256": "5173b71dd9c8d00486ed2601bb3eb56db200fd2a4347bf2ccb213ccce1c0424e",
+    "package_sha256": "5173b71dd9c8d00486ed2601bb3eb56db200fd2a4347bf2ccb213ccce1c0424e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_closure_diagnostics.py",
+    "source_sha256": "43f6141d62e16fa54db14beccf7c06609cb7eecde25996109ab1bc8674c98fdb",
+    "package_sha256": "43f6141d62e16fa54db14beccf7c06609cb7eecde25996109ab1bc8674c98fdb",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_city_received.py",
+    "source_sha256": "fba4ef14381ace16c9b7dc0508ca2b1d99e916009375dd2a3163591225bb2af3",
+    "package_sha256": "fba4ef14381ace16c9b7dc0508ca2b1d99e916009375dd2a3163591225bb2af3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_uptake.py",
+    "source_sha256": "11a57d0cb5ffa9b6b39abff5109531419d4f9f82b28320dc40812425d9683a31",
+    "package_sha256": "11a57d0cb5ffa9b6b39abff5109531419d4f9f82b28320dc40812425d9683a31",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/test_pedralbes_lane_access.py",
+    "source_sha256": "491673aee2ef847d90a8828856f61b0bcb70137b66ee8452dbe2a6ba8d17226f",
+    "package_sha256": "491673aee2ef847d90a8828856f61b0bcb70137b66ee8452dbe2a6ba8d17226f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_preflight.py",
+    "source_sha256": "e9b171c4dd70c8a9b04e40094a1ea0466bb5437ffd087ca6030542a4d779d1aa",
+    "package_sha256": "e9b171c4dd70c8a9b04e40094a1ea0466bb5437ffd087ca6030542a4d779d1aa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_paired_city_no_diversion.py",
+    "source_sha256": "3e8743e73cda1486a5670874cd4c5ea5e55051159428add39644cf8e4bde022e",
+    "package_sha256": "3e8743e73cda1486a5670874cd4c5ea5e55051159428add39644cf8e4bde022e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/analyze_reopening.py",
+    "source_sha256": "81dd05bc072c4d4961f236006b243931c22ddcc4226ad3182f2315200c845209",
+    "package_sha256": "81dd05bc072c4d4961f236006b243931c22ddcc4226ad3182f2315200c845209",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_incidents.py",
+    "source_sha256": "f268737ee383d4630727675b6122d418723fff18fc5316d0f843ec48ef1fb463",
+    "package_sha256": "f268737ee383d4630727675b6122d418723fff18fc5316d0f843ec48ef1fb463",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/diagnose_pedralbes_lanes.py",
+    "source_sha256": "1ff45ad2b569e6aba1791e4a7e623e55e5347de52f14fd86854f52ecbac52482",
+    "package_sha256": "1ff45ad2b569e6aba1791e4a7e623e55e5347de52f14fd86854f52ecbac52482",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/diagnose_closure_transition.py",
+    "source_sha256": "14c0ec19ded79235e97faedd2e96f3e6e0785511328bb3b2cefd4fafd3e2c08c",
+    "package_sha256": "14c0ec19ded79235e97faedd2e96f3e6e0785511328bb3b2cefd4fafd3e2c08c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_replication_cohorts.py",
+    "source_sha256": "a5ef62a3e25acec3cecf7ffc074519cfadb47432cf564872199b49328ebcafcd",
+    "package_sha256": "a5ef62a3e25acec3cecf7ffc074519cfadb47432cf564872199b49328ebcafcd",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_prospective_timeout.py",
+    "source_sha256": "d4eecbef62a16c65355e01de056b865c2f107560baf824296ac4695688828270",
+    "package_sha256": "d4eecbef62a16c65355e01de056b865c2f107560baf824296ac4695688828270",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_preexisting_closure.py",
+    "source_sha256": "6f44c1dd8b62a888c437517deb25dcd790f853bb704dc9766048d159c2ee42fa",
+    "package_sha256": "6f44c1dd8b62a888c437517deb25dcd790f853bb704dc9766048d159c2ee42fa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_city_received.py",
+    "source_sha256": "4f866480a2761fd3d42150b5f0d5d6fec8dd212547d875fce72463723cac33b1",
+    "package_sha256": "4f866480a2761fd3d42150b5f0d5d6fec8dd212547d875fce72463723cac33b1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/analyze_overnight_benchmarks.py",
+    "source_sha256": "e40772fe484a34fddb142a405b30d80372a9bd8c5568e618e1b4c7b1dc5b1df3",
+    "package_sha256": "e40772fe484a34fddb142a405b30d80372a9bd8c5568e618e1b4c7b1dc5b1df3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/audit_route_lanes.py",
+    "source_sha256": "728db4d8d4ac00a3998684fae93055e9d086ccb48a6d377b5e96316bf467314b",
+    "package_sha256": "728db4d8d4ac00a3998684fae93055e9d086ccb48a6d377b5e96316bf467314b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/test_pedralbes_imports.py",
+    "source_sha256": "de248b97226c1fc420cdaf4f9ff65916ab0f479fe2c894366f52e52bb96c251f",
+    "package_sha256": "de248b97226c1fc420cdaf4f9ff65916ab0f479fe2c894366f52e52bb96c251f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_paired_city_full_diversion.py",
+    "source_sha256": "d2b6418bbe4b0162fb67482ec99e014d2cb0f2144d6cce86540789b954c65e7d",
+    "package_sha256": "d2b6418bbe4b0162fb67482ec99e014d2cb0f2144d6cce86540789b954c65e7d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/bundle_city_scenarios.py",
+    "source_sha256": "6bde7d28c683f209965f35e2c49d38ca0d2864808cedd0b13e0b17fe7b6c2d93",
+    "package_sha256": "6bde7d28c683f209965f35e2c49d38ca0d2864808cedd0b13e0b17fe7b6c2d93",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_pedralbes_queue_heads.py",
+    "source_sha256": "4a5ba3f4b71fdbd03a4a66dfb262c41ea22c006b2ee25c2ad31858bc3b971d37",
+    "package_sha256": "4a5ba3f4b71fdbd03a4a66dfb262c41ea22c006b2ee25c2ad31858bc3b971d37",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_co2.py",
+    "source_sha256": "efabf93ecef4fcff0393dcf1c4fc0812e825911b07923482b4febacbf141bbae",
+    "package_sha256": "efabf93ecef4fcff0393dcf1c4fc0812e825911b07923482b4febacbf141bbae",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_la_scenario.py",
+    "source_sha256": "902e67c129a5f3f35efc1d15b3306c985b4f4fcf8be2dff10bf5199ae29169d6",
+    "package_sha256": "902e67c129a5f3f35efc1d15b3306c985b4f4fcf8be2dff10bf5199ae29169d6",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_advisory_benchmark.py",
+    "source_sha256": "6b0ebadf93d8452443166b56de321980af987d5b776b2a3c4cba1ed80b7b5924",
+    "package_sha256": "6b0ebadf93d8452443166b56de321980af987d5b776b2a3c4cba1ed80b7b5924",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/city_policy_bridge.py",
+    "source_sha256": "688007fbac8e7a78f9e779baaeed47ce5c6599f7c60eadf0083cdfba60e0d9a6",
+    "package_sha256": "688007fbac8e7a78f9e779baaeed47ce5c6599f7c60eadf0083cdfba60e0d9a6",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_prospective_timeout.py",
+    "source_sha256": "307d1c9b8b7554e166676e7c50139a48080e86dc638b927ee374b188cc602b84",
+    "package_sha256": "307d1c9b8b7554e166676e7c50139a48080e86dc638b927ee374b188cc602b84",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_replication_dynamics.py",
+    "source_sha256": "805de6fa0021e6950a7b313896a1c193387da0f7d1f86ade213b23263a483590",
+    "package_sha256": "805de6fa0021e6950a7b313896a1c193387da0f7d1f86ade213b23263a483590",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/run_pilot.py",
+    "source_sha256": "c5e644f438e604529417044885f8244bb26dd6f4aeedd724f34701342c0a06aa",
+    "package_sha256": "c5e644f438e604529417044885f8244bb26dd6f4aeedd724f34701342c0a06aa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_replication_incidents.py",
+    "source_sha256": "442574ee35b968153c16257512a0c230436de3b37e2103c4bbd9303b7bdb2756",
+    "package_sha256": "442574ee35b968153c16257512a0c230436de3b37e2103c4bbd9303b7bdb2756",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/verify_live_stream.py",
+    "source_sha256": "0846c419d79aa6d5885714772ee4ec40e629a6b4db344557388fcd8e3b4ae396",
+    "package_sha256": "0846c419d79aa6d5885714772ee4ec40e629a6b4db344557388fcd8e3b4ae396",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/review_followup_analysis.py",
+    "source_sha256": "b1384087f9b84c1162241a399b1a64ca22505822c4d255716c740c45fc8a1590",
+    "package_sha256": "b1384087f9b84c1162241a399b1a64ca22505822c4d255716c740c45fc8a1590",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/evaluate_service_matrix.py",
+    "source_sha256": "dd1665f9c807bbf24aaf845f484f961d6a7e5cadb3f1110a23ae1d478f5ef97e",
+    "package_sha256": "dd1665f9c807bbf24aaf845f484f961d6a7e5cadb3f1110a23ae1d478f5ef97e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/validate_async.py",
+    "source_sha256": "456523dc357785a807ace231892e010e497b48f964fc4ddf6941538d8fdcd072",
+    "package_sha256": "456523dc357785a807ace231892e010e497b48f964fc4ddf6941538d8fdcd072",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "scripts/build_network.py",
+    "source_sha256": "a78a11ff44668862280d683c34139164c8a9b2e4af25c48bacb9fd03fcae40ff",
+    "package_sha256": "a78a11ff44668862280d683c34139164c8a9b2e4af25c48bacb9fd03fcae40ff",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "pyproject.toml",
+    "source_sha256": "372dbd98e638c2cede7691df9d49cc53bb7498551621cc4f90c97d64d2d0de28",
+    "package_sha256": "372dbd98e638c2cede7691df9d49cc53bb7498551621cc4f90c97d64d2d0de28",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "requirements.lock.txt",
+    "source_sha256": "68c00399715395e50825f112595b1e2b32b09da8609bd947d528d53059a807e2",
+    "package_sha256": "1099ba24f10c911b3e61af410a44fd9957c5e9f593afe1d6120adfc4282de37f",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "config/la_incident_candidate.json",
+    "source_sha256": "1744513fa1d98a742843be80c5fa3686aac9a3c409b201b863d8dc96a4b5e7cf",
+    "package_sha256": "1744513fa1d98a742843be80c5fa3686aac9a3c409b201b863d8dc96a4b5e7cf",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "config/pilot.json",
+    "source_sha256": "00d2b97df05fd54d2e59e10497ee17c5fb38b8c578f34a83f385e90a2cff812c",
+    "package_sha256": "1cf130c64a8043f0659669e279a60d82885b1838927e32ca6017d99904ef5591",
+    "sanitized": false,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "runs/paired_city_stress_v1/plan.json",
+    "source_sha256": "beb54c6006442427822738d9520b0f121b39f059510a51febb79e12afab12a9e",
+    "package_sha256": "beb54c6006442427822738d9520b0f121b39f059510a51febb79e12afab12a9e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/paired_city_stress_v1/analysis.json",
+    "source_sha256": "b89fed0225c46f75afb08a829fecbf6234b6ce88598b2c160bd51b20a1cc2e94",
+    "package_sha256": "b89fed0225c46f75afb08a829fecbf6234b6ce88598b2c160bd51b20a1cc2e94",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/paired_city_stress_v1/freeze.json",
+    "source_sha256": "94b32a8cf9e113667a2a069f6264a6f7539627c2019f0163521919508afa3bab",
+    "package_sha256": "94b32a8cf9e113667a2a069f6264a6f7539627c2019f0163521919508afa3bab",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_matrix_v1/summary.json",
+    "source_sha256": "92b3d614697b710dcdd51248dc9663e1d49abcd5bae534d7a8a1efcb237464cb",
+    "package_sha256": "92b3d614697b710dcdd51248dc9663e1d49abcd5bae534d7a8a1efcb237464cb",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_matrix_v1/plan.json",
+    "source_sha256": "5ee240649926702741c6781ad02e479de655a64c598e0f7e76c823b980226748",
+    "package_sha256": "5ee240649926702741c6781ad02e479de655a64c598e0f7e76c823b980226748",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_matrix_v1/inputs.json",
+    "source_sha256": "b93426667503060a8c528d9aa88d082b2abcd4ce33093e0c150c11f0ca6190d5",
+    "package_sha256": "b93426667503060a8c528d9aa88d082b2abcd4ce33093e0c150c11f0ca6190d5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_matrix_v1/verification.json",
+    "source_sha256": "462654e87f144a95bb88494000b76c267cbb5b70338530cf43cc693cc1075bd2",
+    "package_sha256": "462654e87f144a95bb88494000b76c267cbb5b70338530cf43cc693cc1075bd2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/prospective_timeout_v1/plan.json",
+    "source_sha256": "23b82804a0609b9f790ee5cd126016526e7d325d108d8e210faba6f9f5744283",
+    "package_sha256": "23b82804a0609b9f790ee5cd126016526e7d325d108d8e210faba6f9f5744283",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/prospective_timeout_v1/verification.json",
+    "source_sha256": "f24bb22d4b422933e78f1cd262c3c6fb80e8aed3f95fa01614af166519175bd5",
+    "package_sha256": "f24bb22d4b422933e78f1cd262c3c6fb80e8aed3f95fa01614af166519175bd5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/prospective_timeout_v1/freeze.json",
+    "source_sha256": "45a17bf9e7689a1ebe022b99c26a49209d1c78485ed428fbade4a64028fd1e41",
+    "package_sha256": "45a17bf9e7689a1ebe022b99c26a49209d1c78485ed428fbade4a64028fd1e41",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_uptake_v2/plan.json",
+    "source_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "package_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/static_sensors_v1/summary.json",
+    "source_sha256": "be2efd937b96a8ad4a143c78a41a093904ca9a22dfa0a4c1f8aa11cca28bf87d",
+    "package_sha256": "be2efd937b96a8ad4a143c78a41a093904ca9a22dfa0a4c1f8aa11cca28bf87d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/static_sensors_v1/plan.json",
+    "source_sha256": "27df6bfddf81f9c51a71f1ec23dae93167e1ae6593f0c6639866139d8c3e4731",
+    "package_sha256": "27df6bfddf81f9c51a71f1ec23dae93167e1ae6593f0c6639866139d8c3e4731",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/static_sensors_v1/verification.json",
+    "source_sha256": "bcdcd5d7ecd117c44314899efba0b98981f3b3e8da93a791e4abec26f1cf385f",
+    "package_sha256": "bcdcd5d7ecd117c44314899efba0b98981f3b3e8da93a791e4abec26f1cf385f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_uptake_v3/summary.json",
+    "source_sha256": "7c4aab9f3f2871f5351203e267ea4897dc8194e5c1604848fc0fda1b075a6a61",
+    "package_sha256": "7c4aab9f3f2871f5351203e267ea4897dc8194e5c1604848fc0fda1b075a6a61",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_uptake_v3/plan.json",
+    "source_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "package_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_uptake_v3/verification.json",
+    "source_sha256": "0da4b8bb7b8822223891465429298a665dd8c4bd1744bb1f86801efec232066c",
+    "package_sha256": "0da4b8bb7b8822223891465429298a665dd8c4bd1744bb1f86801efec232066c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_preflight_v1/summary.json",
+    "source_sha256": "fc9457d3e3e9662137cc8c8813aaa1a3dfdf3825319505a55ffc8c5dd350b092",
+    "package_sha256": "fc9457d3e3e9662137cc8c8813aaa1a3dfdf3825319505a55ffc8c5dd350b092",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_preflight_v1/plan.json",
+    "source_sha256": "6ad36ed28582c19e6bd7326c380b56cc9527e3ebc157844a31624972f5b986fa",
+    "package_sha256": "6ad36ed28582c19e6bd7326c380b56cc9527e3ebc157844a31624972f5b986fa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_preflight_v1/verification.json",
+    "source_sha256": "f68586cdd92dee6adabfd3ec4f533fc35e15a7c2fec0a02e97dba4ab39530bd3",
+    "package_sha256": "f68586cdd92dee6adabfd3ec4f533fc35e15a7c2fec0a02e97dba4ab39530bd3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/freshness_coverage_v1/summary.json",
+    "source_sha256": "f739e794fe901fdce0f4352ef96edb5242923ec0af22a936a05dab34d6f50e8d",
+    "package_sha256": "f739e794fe901fdce0f4352ef96edb5242923ec0af22a936a05dab34d6f50e8d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/freshness_coverage_v1/plan.json",
+    "source_sha256": "b710e8f82256d29b1732ea3be5ded223fcb4062c239c8c9770f303253bf4efda",
+    "package_sha256": "b710e8f82256d29b1732ea3be5ded223fcb4062c239c8c9770f303253bf4efda",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_dynamics_v1/summary.json",
+    "source_sha256": "29f3525f15cd35ba5cdf40e79e5605f80214cc7c2285429ac1ba4aa6c93004db",
+    "package_sha256": "29f3525f15cd35ba5cdf40e79e5605f80214cc7c2285429ac1ba4aa6c93004db",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_dynamics_v1/plan.json",
+    "source_sha256": "85476308b2455b208a7efcf5f83564237894f6d4c13cd3b2dfbd8ae19078a33c",
+    "package_sha256": "85476308b2455b208a7efcf5f83564237894f6d4c13cd3b2dfbd8ae19078a33c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_dynamics_v1/verification.json",
+    "source_sha256": "e0c01ac877261827fc4454f90f39d829fa1cf9ddd7bfb9cbb34c514c2925aa40",
+    "package_sha256": "e0c01ac877261827fc4454f90f39d829fa1cf9ddd7bfb9cbb34c514c2925aa40",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_benchmark_v1/plan.json",
+    "source_sha256": "48ccb815d280a0dd5835ce93040f0cff1161dc15b542b971f5f2d74592129f7c",
+    "package_sha256": "48ccb815d280a0dd5835ce93040f0cff1161dc15b542b971f5f2d74592129f7c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_benchmark_v1/cases.json",
+    "source_sha256": "7048165058e6e8878b67ddefa6b704b5dec742dbad9e09b5df03c3453a4dda19",
+    "package_sha256": "7048165058e6e8878b67ddefa6b704b5dec742dbad9e09b5df03c3453a4dda19",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_benchmark_v1/analysis.json",
+    "source_sha256": "c6eca1109eed4f4f16273811919a55d4f5aab4f98a278aecca6f65708ab8a2ad",
+    "package_sha256": "c6eca1109eed4f4f16273811919a55d4f5aab4f98a278aecca6f65708ab8a2ad",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_benchmark_v1/freeze.json",
+    "source_sha256": "60ad0cb80267558a2af7b4a8d8b86f9836af0c50df624726594215aa0fd45c07",
+    "package_sha256": "60ad0cb80267558a2af7b4a8d8b86f9836af0c50df624726594215aa0fd45c07",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_structured_local_v1/plan.json",
+    "source_sha256": "b2a1e2f112c1b6e34481ac72a6855b48d284136f87583b3f17235bcdf1241874",
+    "package_sha256": "b2a1e2f112c1b6e34481ac72a6855b48d284136f87583b3f17235bcdf1241874",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_structured_local_v1/verified_summary.json",
+    "source_sha256": "70b18d15cb93935024d913e631fbcc81d4f17a25d5dc78e3c6ff3192dd197075",
+    "package_sha256": "70b18d15cb93935024d913e631fbcc81d4f17a25d5dc78e3c6ff3192dd197075",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_structured_local_v1/cases.json",
+    "source_sha256": "7048165058e6e8878b67ddefa6b704b5dec742dbad9e09b5df03c3453a4dda19",
+    "package_sha256": "7048165058e6e8878b67ddefa6b704b5dec742dbad9e09b5df03c3453a4dda19",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/advisory_structured_local_v1/freeze.json",
+    "source_sha256": "e54077c8610239a1bce754fc3c49826bc6127aca605b1488b47e7c6c8fe85812",
+    "package_sha256": "e54077c8610239a1bce754fc3c49826bc6127aca605b1488b47e7c6c8fe85812",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_refresh_v1/summary.json",
+    "source_sha256": "8201ec0107ce4626df556ab6abb4b9dcf88e56916c1d197eb0f3e5aa6973747d",
+    "package_sha256": "8201ec0107ce4626df556ab6abb4b9dcf88e56916c1d197eb0f3e5aa6973747d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_refresh_v1/plan.json",
+    "source_sha256": "bc0504ac655fe9ad6768893f92dbcbd7439f8fd646f61e4716dd424649fbee24",
+    "package_sha256": "bc0504ac655fe9ad6768893f92dbcbd7439f8fd646f61e4716dd424649fbee24",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_received_v1/summary.json",
+    "source_sha256": "542e636cc6150bf89fa80b05c21a0a1f2e0da1126352398bbb682fb0452af515",
+    "package_sha256": "542e636cc6150bf89fa80b05c21a0a1f2e0da1126352398bbb682fb0452af515",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_received_v1/plan.json",
+    "source_sha256": "6193c4e1a07acbe5e1129d0acae2e4364cab09a58db624c5189396f53752330f",
+    "package_sha256": "6193c4e1a07acbe5e1129d0acae2e4364cab09a58db624c5189396f53752330f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_received_v1/trace_hash.json",
+    "source_sha256": "3e65bb20395b36eab03942b3a9a6689525dcef5c404ea51776ff2f9d826cda90",
+    "package_sha256": "3e65bb20395b36eab03942b3a9a6689525dcef5c404ea51776ff2f9d826cda90",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_received_v1/verification.json",
+    "source_sha256": "a72b889568cac9ccb182d3d1a2de6aea9088c571b996055626c236f7453e7ab1",
+    "package_sha256": "a72b889568cac9ccb182d3d1a2de6aea9088c571b996055626c236f7453e7ab1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preflight_validation_v1/summary.json",
+    "source_sha256": "63e1a55cc616e426bf944e72f8291b05c10684feca756fbae732873509416c65",
+    "package_sha256": "63e1a55cc616e426bf944e72f8291b05c10684feca756fbae732873509416c65",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preflight_validation_v1/plan.json",
+    "source_sha256": "559ca804bf8dd749ad93013e8a1414c4ab3d283432d4d414a709d012fb368731",
+    "package_sha256": "559ca804bf8dd749ad93013e8a1414c4ab3d283432d4d414a709d012fb368731",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preflight_validation_v1/checks.json",
+    "source_sha256": "35be46d52649ea5211dd4371605bc1a199ea5cb48177a158f64adf42f8632453",
+    "package_sha256": "35be46d52649ea5211dd4371605bc1a199ea5cb48177a158f64adf42f8632453",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_incidents_v1/summary.json",
+    "source_sha256": "cc3ceb1039d94010e2b37a687c4c8e677522efc8da76a43076dd942715c78022",
+    "package_sha256": "cc3ceb1039d94010e2b37a687c4c8e677522efc8da76a43076dd942715c78022",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_incidents_v1/plan.json",
+    "source_sha256": "bf0f07d53e61aa58e38e6a3759a96ea870abd3064d881376e1a795bebde6d700",
+    "package_sha256": "bf0f07d53e61aa58e38e6a3759a96ea870abd3064d881376e1a795bebde6d700",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_incidents_v1/aggregate.json",
+    "source_sha256": "cffff8b151ef561fefc064e685d9a1945b5ae68884ce14a120e8a76d687e9023",
+    "package_sha256": "cffff8b151ef561fefc064e685d9a1945b5ae68884ce14a120e8a76d687e9023",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_incidents_v1/verification.json",
+    "source_sha256": "8f8be56bf3c5bce14c18214ecbfa1d9bf02bb32bcd35e9c5ecee50e98201c23b",
+    "package_sha256": "8f8be56bf3c5bce14c18214ecbfa1d9bf02bb32bcd35e9c5ecee50e98201c23b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/summary.json",
+    "source_sha256": "a7a8829473f02e2f062b0d1656f72e578bb51f9e02a57b46fff69d064e3c56b5",
+    "package_sha256": "a7a8829473f02e2f062b0d1656f72e578bb51f9e02a57b46fff69d064e3c56b5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/verification_and_analysis.json",
+    "source_sha256": "90c594bb44549c166f6e9146a0b1bad98ac78b4fe0e4ea96ef9d1a88a3712c82",
+    "package_sha256": "90c594bb44549c166f6e9146a0b1bad98ac78b4fe0e4ea96ef9d1a88a3712c82",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/plan.json",
+    "source_sha256": "8f16a08453a87dde1e8590af4b4ee443afe196188bec38633b1f764cdab6d75f",
+    "package_sha256": "8f16a08453a87dde1e8590af4b4ee443afe196188bec38633b1f764cdab6d75f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/inputs.json",
+    "source_sha256": "ca76e4b21ab3b0f67b8e7a70ed1cb99cd3ba97331a3b7e1e973ad54a0706814a",
+    "package_sha256": "ca76e4b21ab3b0f67b8e7a70ed1cb99cd3ba97331a3b7e1e973ad54a0706814a",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/cases.json",
+    "source_sha256": "6214fb8b785bfcf08bb54f5259a9d6161f0bbb5fefc3f09dae5f12baaeeb66ba",
+    "package_sha256": "6214fb8b785bfcf08bb54f5259a9d6161f0bbb5fefc3f09dae5f12baaeeb66ba",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_bridge_v1/safety_totals.json",
+    "source_sha256": "200f55f7df089b45441a70c769569aa5f2415cafa2031555b0c04b35e0b84589",
+    "package_sha256": "200f55f7df089b45441a70c769569aa5f2415cafa2031555b0c04b35e0b84589",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_diagnostic_v2/summary.json",
+    "source_sha256": "78c5c22c06abd62c16a264acb48d889fff73f5ed48564c280f4531cc3a9cbb60",
+    "package_sha256": "78c5c22c06abd62c16a264acb48d889fff73f5ed48564c280f4531cc3a9cbb60",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_diagnostic_v2/plan.json",
+    "source_sha256": "2178ef76c417ca3fdef67cd1401032ee0312b2ec91dce9e8dc9450e07a2b0f69",
+    "package_sha256": "2178ef76c417ca3fdef67cd1401032ee0312b2ec91dce9e8dc9450e07a2b0f69",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_diagnostic_v2/analysis.json",
+    "source_sha256": "162bb2be61053673aaf07229dc09167e4e16f55eb8f3dfcadeccf5b9912ac7ec",
+    "package_sha256": "162bb2be61053673aaf07229dc09167e4e16f55eb8f3dfcadeccf5b9912ac7ec",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/summary.json",
+    "source_sha256": "0f95b299925125b80095a10750cf7144ee75d2dea6f1245dff7e8676f1f209d0",
+    "package_sha256": "0f95b299925125b80095a10750cf7144ee75d2dea6f1245dff7e8676f1f209d0",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/verification_and_analysis.json",
+    "source_sha256": "9e2f3f36cd2907faaf9b7db1271bc9612d043cc067459d1599d4f7f23dd61a5c",
+    "package_sha256": "9e2f3f36cd2907faaf9b7db1271bc9612d043cc067459d1599d4f7f23dd61a5c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/plan.json",
+    "source_sha256": "81790eb797add42e0d22fed9d132b2c900c9d757ba24013be3591b83faeda910",
+    "package_sha256": "81790eb797add42e0d22fed9d132b2c900c9d757ba24013be3591b83faeda910",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/identity.json",
+    "source_sha256": "9bbac2f3c18ee2bfca3c5934ac8a323e4c1ab34bcc30fd93a21cdda12db3c9ec",
+    "package_sha256": "9bbac2f3c18ee2bfca3c5934ac8a323e4c1ab34bcc30fd93a21cdda12db3c9ec",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/inputs.json",
+    "source_sha256": "de6142a188abe8ecaa8a8d290d9a7b7b1a1fce83cb459c12aff4c70a56489b1f",
+    "package_sha256": "de6142a188abe8ecaa8a8d290d9a7b7b1a1fce83cb459c12aff4c70a56489b1f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_policy_local_v1/cases.json",
+    "source_sha256": "6214fb8b785bfcf08bb54f5259a9d6161f0bbb5fefc3f09dae5f12baaeeb66ba",
+    "package_sha256": "6214fb8b785bfcf08bb54f5259a9d6161f0bbb5fefc3f09dae5f12baaeeb66ba",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/co2_accounting_v1/summary.json",
+    "source_sha256": "db847f286cd1f3a5a537d0498d0780efe92f7c03d2b900ba0ac22f5b99e50dc8",
+    "package_sha256": "db847f286cd1f3a5a537d0498d0780efe92f7c03d2b900ba0ac22f5b99e50dc8",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/co2_accounting_v1/plan.json",
+    "source_sha256": "1c5dbb7bd2977b64efcdb17e97d1c8bdd85b4dc23cf590ff8446da44e00f9749",
+    "package_sha256": "1c5dbb7bd2977b64efcdb17e97d1c8bdd85b4dc23cf590ff8446da44e00f9749",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/co2_accounting_v1/accounting_amendment.json",
+    "source_sha256": "43fc7b7674397d70b59573a2dccb2cffc48f7f502a8126eeac7d3035ab6875ff",
+    "package_sha256": "43fc7b7674397d70b59573a2dccb2cffc48f7f502a8126eeac7d3035ab6875ff",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/co2_accounting_v1/verification.json",
+    "source_sha256": "089735155b4bc655f01878d6acf9676a55afe98923a5f2627a28afa021b2a5ea",
+    "package_sha256": "089735155b4bc655f01878d6acf9676a55afe98923a5f2627a28afa021b2a5ea",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/alignment_v1/summary.json",
+    "source_sha256": "5721167e9ca8d3e6a352f54fa55a8ec01aa160aa84680c6dee2b2e6208a2fb0f",
+    "package_sha256": "5721167e9ca8d3e6a352f54fa55a8ec01aa160aa84680c6dee2b2e6208a2fb0f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/alignment_v1/plan.json",
+    "source_sha256": "804622d68637780b17bcfffb554288c4b48ffbb269f02a976d08367d99339395",
+    "package_sha256": "804622d68637780b17bcfffb554288c4b48ffbb269f02a976d08367d99339395",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/alignment_v1/inputs.json",
+    "source_sha256": "9794b79c284ca5bf997a6f81a8aac016d6944f9f210cbf1a9d434d7561cabf94",
+    "package_sha256": "9794b79c284ca5bf997a6f81a8aac016d6944f9f210cbf1a9d434d7561cabf94",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/alignment_v1/verification.json",
+    "source_sha256": "e983befc947b0c1c80759028cc0f371359a8d7caa923ecd902312cda1eadfa9b",
+    "package_sha256": "e983befc947b0c1c80759028cc0f371359a8d7caa923ecd902312cda1eadfa9b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_sweep_v1/summary.json",
+    "source_sha256": "1a2c8881090bab5427d84439d41d72faa03e072ca97b5fc3ba7e6b3b85f2fca2",
+    "package_sha256": "1a2c8881090bab5427d84439d41d72faa03e072ca97b5fc3ba7e6b3b85f2fca2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_sweep_v1/plan.json",
+    "source_sha256": "4b66e6048966bb6a854bf6f8bf9e5bb8fa5a210ac7bd18ad3d7d428e4fb0d1df",
+    "package_sha256": "4b66e6048966bb6a854bf6f8bf9e5bb8fa5a210ac7bd18ad3d7d428e4fb0d1df",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_sweep_v1/inputs.json",
+    "source_sha256": "733c1af1ea0857388d1c14e341458ede0679c11cda1834ca47e4d833a7f290e1",
+    "package_sha256": "733c1af1ea0857388d1c14e341458ede0679c11cda1834ca47e4d833a7f290e1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/service_sweep_v1/verification.json",
+    "source_sha256": "cb0a1ba44b2cd2e49e357b4a2124ac610731e98ebc25361dbaaa37d59e85b705",
+    "package_sha256": "cb0a1ba44b2cd2e49e357b4a2124ac610731e98ebc25361dbaaa37d59e85b705",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/frozen_advisory_replay_v1/summary.json",
+    "source_sha256": "bde78cf79144960f6c678c81b500d22115b102c200568a261f0b29f761b06e27",
+    "package_sha256": "bde78cf79144960f6c678c81b500d22115b102c200568a261f0b29f761b06e27",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/frozen_advisory_replay_v1/plan.json",
+    "source_sha256": "07ce8f6d3ba83ffa40aa1d25e0fbe5abaa3fe1e19ae685f4cd1d507b7bf65db2",
+    "package_sha256": "07ce8f6d3ba83ffa40aa1d25e0fbe5abaa3fe1e19ae685f4cd1d507b7bf65db2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/frozen_advisory_replay_v1/inputs.json",
+    "source_sha256": "25ac90d107cd50ac84bc0fb5bb37effbd02c09b4cd024d227530dc02cb6fe572",
+    "package_sha256": "25ac90d107cd50ac84bc0fb5bb37effbd02c09b4cd024d227530dc02cb6fe572",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/frozen_advisory_replay_v1/verification.json",
+    "source_sha256": "ff1adaf151daed1df30bb4a540541a6874656f06e462592f3cb8ff35575df19e",
+    "package_sha256": "ff1adaf151daed1df30bb4a540541a6874656f06e462592f3cb8ff35575df19e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preexisting_closure_v1/summary.json",
+    "source_sha256": "879e133835fca54605fd439e503cf010ea94340ec6ec13b1c8aececf8cc7095f",
+    "package_sha256": "879e133835fca54605fd439e503cf010ea94340ec6ec13b1c8aececf8cc7095f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preexisting_closure_v1/plan.json",
+    "source_sha256": "4492f572c1624d75ea14fe733f4724cf0c796976dee8efc6556880ec94861420",
+    "package_sha256": "4492f572c1624d75ea14fe733f4724cf0c796976dee8efc6556880ec94861420",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/preexisting_closure_v1/verification.json",
+    "source_sha256": "1a1bbb490fcc6b37002ab67ca6cb46d0dda610f4a47e58961f8624dc09c0d97c",
+    "package_sha256": "1a1bbb490fcc6b37002ab67ca6cb46d0dda610f4a47e58961f8624dc09c0d97c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/selected_no_closure_v1/summary.json",
+    "source_sha256": "efd8ec699709c330a852ecd607febb9d03740288872627e774cbdbac35ded9ce",
+    "package_sha256": "efd8ec699709c330a852ecd607febb9d03740288872627e774cbdbac35ded9ce",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/selected_no_closure_v1/plan.json",
+    "source_sha256": "9bef32d7c4a2e6acf5831eb8aaa9d8518dc2592f678fbd59774603efbe07e91b",
+    "package_sha256": "9bef32d7c4a2e6acf5831eb8aaa9d8518dc2592f678fbd59774603efbe07e91b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/review_followup_v1/precision_planning.json",
+    "source_sha256": "682a03ce2876c5c9b9f519a1ff617f1b2dba38648dc7394f4c8aeac66cf0be34",
+    "package_sha256": "682a03ce2876c5c9b9f519a1ff617f1b2dba38648dc7394f4c8aeac66cf0be34",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/review_followup_v1/world_cluster_intervals.json",
+    "source_sha256": "fb49d3835838e06f2b4f1cbb026b2de0559702696c58b5de1d75c2e2023b69a2",
+    "package_sha256": "fb49d3835838e06f2b4f1cbb026b2de0559702696c58b5de1d75c2e2023b69a2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_uptake_v1/plan.json",
+    "source_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "package_sha256": "4b0b771ec798a9500cec2a883a22e878354ae1013954e461bf070863e09ff848",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_lane_diagnostic_v1/summary.json",
+    "source_sha256": "9d76be79cb293cd3618b9e9bd57eb8078c285e22b4419092c7dc9c1388c8b6ba",
+    "package_sha256": "9d76be79cb293cd3618b9e9bd57eb8078c285e22b4419092c7dc9c1388c8b6ba",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_cohorts_v1/summary.json",
+    "source_sha256": "03725e41e0cb3e433bd4c94f6bc1d3e9f8deef3deb1a9e66a3e1d24c4bee4047",
+    "package_sha256": "03725e41e0cb3e433bd4c94f6bc1d3e9f8deef3deb1a9e66a3e1d24c4bee4047",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/replication_cohorts_v1/plan.json",
+    "source_sha256": "e7eb32fcb0f527cd986a8c71adb12b5aac3f6da63ce450bd12514cbe76ad42f0",
+    "package_sha256": "e7eb32fcb0f527cd986a8c71adb12b5aac3f6da63ce450bd12514cbe76ad42f0",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/chronological_replay_v1/summary.json",
+    "source_sha256": "ed2f7fd3352f93f6a06f6245efb7ea177f218b3e4703ae40dccf6661d16f9b5b",
+    "package_sha256": "ed2f7fd3352f93f6a06f6245efb7ea177f218b3e4703ae40dccf6661d16f9b5b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/chronological_replay_v1/plan.json",
+    "source_sha256": "6d8fe04a77f7bb9a469b8367ea3a28d460a7eab57604ecf22b5e5bc106d1a8ea",
+    "package_sha256": "6d8fe04a77f7bb9a469b8367ea3a28d460a7eab57604ecf22b5e5bc106d1a8ea",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/chronological_replay_v1/checks.json",
+    "source_sha256": "a5a73c5349072f5e1e02c18d264cf668a21b4781401128ac0aec635291364540",
+    "package_sha256": "a5a73c5349072f5e1e02c18d264cf668a21b4781401128ac0aec635291364540",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/consumer_stream_v1/summary.json",
+    "source_sha256": "aaa7ca38ed954538449bbc2ac8183570ac6e7d96f5a4392b027d1d466ca80568",
+    "package_sha256": "aaa7ca38ed954538449bbc2ac8183570ac6e7d96f5a4392b027d1d466ca80568",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/consumer_stream_v1/plan.json",
+    "source_sha256": "81aa1015bbbd59686c762749755dc23e5a332a1b29ff4eb9df4e2f6c421340dd",
+    "package_sha256": "81aa1015bbbd59686c762749755dc23e5a332a1b29ff4eb9df4e2f6c421340dd",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/consumer_stream_v1/checks.json",
+    "source_sha256": "b291d9586d2490f5ee68855031c4eabf7f2f68be63bc0f27051babdcec59f957",
+    "package_sha256": "b291d9586d2490f5ee68855031c4eabf7f2f68be63bc0f27051babdcec59f957",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/async_validation_v1/model_identity.json",
+    "source_sha256": "9e87d80bb6189ca0507db0c7f287c20fdb0ddc7ac0ef14d890fff2d59d02aa36",
+    "package_sha256": "9e87d80bb6189ca0507db0c7f287c20fdb0ddc7ac0ef14d890fff2d59d02aa36",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_import_sensitivity_v1/summary.json",
+    "source_sha256": "5360cf421dfff9df93069788d7f534e9019771bcb88e8de01ffef12b476dac3d",
+    "package_sha256": "5360cf421dfff9df93069788d7f534e9019771bcb88e8de01ffef12b476dac3d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_import_sensitivity_v1/plan.json",
+    "source_sha256": "152f03e1d143a996c967a25a8ff47378635701b41359dd431d46f32d6c6a09b5",
+    "package_sha256": "152f03e1d143a996c967a25a8ff47378635701b41359dd431d46f32d6c6a09b5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/closure_transition_v1/summary.json",
+    "source_sha256": "78702dfeafd902c6d4a0d1834bd4488d4a3770e8ab8e4fe98561dbe4cb827a9c",
+    "package_sha256": "78702dfeafd902c6d4a0d1834bd4488d4a3770e8ab8e4fe98561dbe4cb827a9c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/closure_transition_v1/plan.json",
+    "source_sha256": "6e100423d90529e4b97110112d6fd018c215887d01a42be2df91f5e9cfb3ccaa",
+    "package_sha256": "6e100423d90529e4b97110112d6fd018c215887d01a42be2df91f5e9cfb3ccaa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/closure_transition_v1/verification.json",
+    "source_sha256": "d503b3f9e6a7bc0042cd8e336fb63dcc478364d5309aa790b6d26171d814ce80",
+    "package_sha256": "d503b3f9e6a7bc0042cd8e336fb63dcc478364d5309aa790b6d26171d814ce80",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_lane_access_v1/summary.json",
+    "source_sha256": "762ba81bf37d077e9dcf2bdc5f51cd5a233e1c46024cb1f67d8845e2e26cc7f5",
+    "package_sha256": "762ba81bf37d077e9dcf2bdc5f51cd5a233e1c46024cb1f67d8845e2e26cc7f5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_lane_access_v1/plan.json",
+    "source_sha256": "8202042c8cf533918bc5a4d415ade32e072225bda8a7d3f1bb9f80de05c46bcd",
+    "package_sha256": "8202042c8cf533918bc5a4d415ade32e072225bda8a7d3f1bb9f80de05c46bcd",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_diagnostic_v1/summary.json",
+    "source_sha256": "9d76be79cb293cd3618b9e9bd57eb8078c285e22b4419092c7dc9c1388c8b6ba",
+    "package_sha256": "9d76be79cb293cd3618b9e9bd57eb8078c285e22b4419092c7dc9c1388c8b6ba",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/pedralbes_diagnostic_v1/checks.json",
+    "source_sha256": "f0ca1c15c9caa628b542d747a3aac0ebb6342734cf68089196a98c58c8d7468f",
+    "package_sha256": "f0ca1c15c9caa628b542d747a3aac0ebb6342734cf68089196a98c58c8d7468f",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_consumer_v1/summary.json",
+    "source_sha256": "773287c0ace02701daa9c48e27ebcc5774a7be79fa3a512c0dabd79b08962e2c",
+    "package_sha256": "773287c0ace02701daa9c48e27ebcc5774a7be79fa3a512c0dabd79b08962e2c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_consumer_v1/plan.json",
+    "source_sha256": "b76e16eedcfab27a80154ec24d1076e55dea25c2ded085f912c64e8091aae0da",
+    "package_sha256": "b76e16eedcfab27a80154ec24d1076e55dea25c2ded085f912c64e8091aae0da",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_consumer_v1/source_hashes.json",
+    "source_sha256": "987ce05c9e8aeeba67d6a2b89e5aff5eb11a32d811c7810dc06c181e12952c34",
+    "package_sha256": "987ce05c9e8aeeba67d6a2b89e5aff5eb11a32d811c7810dc06c181e12952c34",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_consumer_v1/verification.json",
+    "source_sha256": "725011e489c430f6247e5b4e1ae7dc54494b0049e5333b8d3bdc9b50e883e58d",
+    "package_sha256": "725011e489c430f6247e5b4e1ae7dc54494b0049e5333b8d3bdc9b50e883e58d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/reopening_diagnostic_v1/plan.json",
+    "source_sha256": "2178ef76c417ca3fdef67cd1401032ee0312b2ec91dce9e8dc9450e07a2b0f69",
+    "package_sha256": "2178ef76c417ca3fdef67cd1401032ee0312b2ec91dce9e8dc9450e07a2b0f69",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/live_stream_v1/summary.json",
+    "source_sha256": "3eb4320e738a51bd77f896b4d145532843b41ff9a8ed8237f0b6b3cb8c649db2",
+    "package_sha256": "3eb4320e738a51bd77f896b4d145532843b41ff9a8ed8237f0b6b3cb8c649db2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/live_stream_v1/plan.json",
+    "source_sha256": "d98fc7a9d72ff7c9c6f577a0f7501a30c198fe5e3bfc9dde04f03822b8f8cf35",
+    "package_sha256": "d98fc7a9d72ff7c9c6f577a0f7501a30c198fe5e3bfc9dde04f03822b8f8cf35",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/live_stream_v1/inputs.json",
+    "source_sha256": "23d16985ccf0da360650f9c0653a033ce15c5d6c72335f7a41ec10a41d7182df",
+    "package_sha256": "23d16985ccf0da360650f9c0653a033ce15c5d6c72335f7a41ec10a41d7182df",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/live_stream_v1/verification.json",
+    "source_sha256": "261d983141e1098e4f5297250a4b8133331d5eed772fe2292e87784536ce4930",
+    "package_sha256": "261d983141e1098e4f5297250a4b8133331d5eed772fe2292e87784536ce4930",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/live_stream_v1/model_identity.json",
+    "source_sha256": "9e87d80bb6189ca0507db0c7f287c20fdb0ddc7ac0ef14d890fff2d59d02aa36",
+    "package_sha256": "9e87d80bb6189ca0507db0c7f287c20fdb0ddc7ac0ef14d890fff2d59d02aa36",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "runs/city_preflight_v1/los_angeles/city.net.xml",
+    "source_sha256": "76fb4aa4239abb279b1df1837959ce80b324a012f6602149ca495ddbde9b2a3e",
+    "package_sha256": "0aaf9d7b3f72096670360865575eecbb4fbe868735a077d911e0872d82b6a15b",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "runs/city_preflight_v1/luxembourg/city.net.xml",
+    "source_sha256": "d822fae9eb3ddd169ef805f6ce792ffa0e31d0d335139414811fef6aab203d75",
+    "package_sha256": "47f0c08af77c2d08ab966be93f595b49af8c6ea1f7cf7887dcd51877e2a796e8",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "runs/city_preflight_v1/pedralbes/city.net.xml",
+    "source_sha256": "f7ab13920ab3c3f73d7f9e157e9e6a86afa50bd23390916428b2d51791177528",
+    "package_sha256": "231d761e59dd0b97f47417b6e85cbaa01595ad1950298f8c2568726e1518657e",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/luxembourg/city.net.xml",
+    "source_sha256": "1a4a94c752e4cc60429f1e65fe14cc3abcf82327cc370611872997fd963d0c1a",
+    "package_sha256": "47eb9e0b2f31a4ca81249d2a2472e2b1f7d64c2aae70977cde418b44ed2f2bc1",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/luxembourg/buildings.poly.xml",
+    "source_sha256": "6f340be928d30b8b4267187cddfb0dccdf2234c5d16f9d0a98e46e4b0fe73ee0",
+    "package_sha256": "bab3109ee6024f6c00c7dc8d0a57d6491190e38cdec7776961b95dd2a2df1631",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/luxembourg/publication.poly.xml",
+    "source_sha256": "34b81fa320a620598bc0575aa5604b3d4a811d83021609d02f00af74c79f6086",
+    "package_sha256": "34b81fa320a620598bc0575aa5604b3d4a811d83021609d02f00af74c79f6086",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/luxembourg/publication.view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/pedralbes/city.net.xml",
+    "source_sha256": "8c3fdb00019b5aa310347385a3cbff88622395ddefc4ae7437b73f9fd601c4fa",
+    "package_sha256": "cc6155e520b38f6913172341e98f7f6731b2bd9fa7c52d28d1a11d15c20b9d0f",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/pedralbes/buildings.poly.xml",
+    "source_sha256": "426157c444f9a5d6773aab443d79526c4fd5e3d3d397b34543522b8b04637e8d",
+    "package_sha256": "c75d2af19f7a8b6d9134dfddba3ad10610a33959fcf9c256835c72e9dc38765f",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/pedralbes/publication.poly.xml",
+    "source_sha256": "8b38a2d08962716d213e45488596193a2029150e6413fdc50da1d041a6b82d14",
+    "package_sha256": "8b38a2d08962716d213e45488596193a2029150e6413fdc50da1d041a6b82d14",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/pedralbes/publication.view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/network/nodes.nod.xml",
+    "source_sha256": "35aa9a709dd5d5cff2c1261c003ff87d174feb87a80c991423ca321c77ebd2b8",
+    "package_sha256": "35aa9a709dd5d5cff2c1261c003ff87d174feb87a80c991423ca321c77ebd2b8",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/network/network.net.xml",
+    "source_sha256": "40c75766b304b76b9d9e1010b5cc632ff4fb7d8ceb7698d7174eda7ffbb485c6",
+    "package_sha256": "411dc8981ddcf431be7c95d17c04fc86be88cfd0ff825df3036a3df86b5ffddb",
+    "sanitized": true,
+    "publication_copy_changed": true
+  },
+  {
+    "path": "data/derived/network/edges.edg.xml",
+    "source_sha256": "aaf0c0e43e75934611376d6a556b73794a0b78dae46ebc604c40c37edf549b3e",
+    "package_sha256": "aaf0c0e43e75934611376d6a556b73794a0b78dae46ebc604c40c37edf549b3e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/los_angeles/downtown.net.xml",
+    "source_sha256": "b8ab7e2d6a2ffc231d3541b7ec607ee1a9c98e131456eaf047c5f2933cda8621",
+    "package_sha256": "b8ab7e2d6a2ffc231d3541b7ec607ee1a9c98e131456eaf047c5f2933cda8621",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/los_angeles/import.netccfg",
+    "source_sha256": "ab9356eda6bf919aede4b071f9a44e2d678db4f6e6f796497692467d3b8aaaef",
+    "package_sha256": "ab9356eda6bf919aede4b071f9a44e2d678db4f6e6f796497692467d3b8aaaef",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/los_angeles/buildings.poly.xml",
+    "source_sha256": "f167dc381662db06d966a3b1dd26b66a203edc85f79f3d132b88494445c09013",
+    "package_sha256": "f167dc381662db06d966a3b1dd26b66a203edc85f79f3d132b88494445c09013",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/los_angeles/publication.poly.xml",
+    "source_sha256": "2b645cc7bf283ed40e015b0e754840b2ba38ea4bbbf608d8cc5154a6f9528fc1",
+    "package_sha256": "2b645cc7bf283ed40e015b0e754840b2ba38ea4bbbf608d8cc5154a6f9528fc1",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/los_angeles/publication.view.xml",
+    "source_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "package_sha256": "750779649fdd85c4afe27aee5d6f6276145e5c62d2081394097f243ad14a207d",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "data/derived/development_messages.json",
+    "source_sha256": "cedfc0a6aa32487d87e02cce6b3c7313770adf6b7fe2bcfccb0b9c3889d12644",
+    "package_sha256": "cedfc0a6aa32487d87e02cce6b3c7313770adf6b7fe2bcfccb0b9c3889d12644",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/COMPLETED_BENCHMARKS_V30.md",
+    "source_sha256": "9cd30a2de987da6259f3d109d141c0f3b290866094ef1f97004483da21a44884",
+    "package_sha256": "9cd30a2de987da6259f3d109d141c0f3b290866094ef1f97004483da21a44884",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/SMART_INFRASTRUCTURE.md",
+    "source_sha256": "37e126d9aed90493a1e467c6231e2f8d270d9a527786adf6bb53d8c8ee1b3535",
+    "package_sha256": "37e126d9aed90493a1e467c6231e2f8d270d9a527786adf6bb53d8c8ee1b3535",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/COMMUNICATION_EVIDENCE.md",
+    "source_sha256": "f4bd082a6312f2051b1a04ed37c4448ca9264542ba28b310055490aece5af6c9",
+    "package_sha256": "f4bd082a6312f2051b1a04ed37c4448ca9264542ba28b310055490aece5af6c9",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/REPLICATED_WORKLOAD_AND_PROTOCOL.md",
+    "source_sha256": "4c39f90bb9068b0aaaddeaacc2587210acce85072afbde54fdb217123236e319",
+    "package_sha256": "4c39f90bb9068b0aaaddeaacc2587210acce85072afbde54fdb217123236e319",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/SERVICE_COMPARISON_V28.md",
+    "source_sha256": "f23308ad669781c5d03515481693010c8275e041b7d6ffff421827cd7eaf826b",
+    "package_sha256": "f23308ad669781c5d03515481693010c8275e041b7d6ffff421827cd7eaf826b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CLOSURE_TRANSITION_DIAGNOSTICS.md",
+    "source_sha256": "3721815ea511696b53482d6cc7d308beeea6ce9abcf70a5b10e1ba049193c955",
+    "package_sha256": "3721815ea511696b53482d6cc7d308beeea6ce9abcf70a5b10e1ba049193c955",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/STATIC_SENSORS.md",
+    "source_sha256": "cbb2b04e2bb9cb7dd58f894f5c1a214ef0f0f69910455809c47a9f7aac30f494",
+    "package_sha256": "cbb2b04e2bb9cb7dd58f894f5c1a214ef0f0f69910455809c47a9f7aac30f494",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/REOPENING_DIAGNOSTICS.md",
+    "source_sha256": "3d43ef7854f44431777c945ab1e5229ed0f057bb4fa04eae7970791fbf166614",
+    "package_sha256": "3d43ef7854f44431777c945ab1e5229ed0f057bb4fa04eae7970791fbf166614",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_PREFLIGHT.md",
+    "source_sha256": "4fd33b5272fa39b0ed26c238c5850e4d87f934d76cb697e46c4f20e0c4523f05",
+    "package_sha256": "4fd33b5272fa39b0ed26c238c5850e4d87f934d76cb697e46c4f20e0c4523f05",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/FRESHNESS_COVERAGE.md",
+    "source_sha256": "b47a090370d0d4f87bc2c879e28dcbc3f234332f56693c8f826b7115f7b2675e",
+    "package_sha256": "b47a090370d0d4f87bc2c879e28dcbc3f234332f56693c8f826b7115f7b2675e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_RECEIVED.md",
+    "source_sha256": "a650ff95861d0df668bb7eabceb856baed3287779764e0e41367743f4ad9a107",
+    "package_sha256": "a650ff95861d0df668bb7eabceb856baed3287779764e0e41367743f4ad9a107",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PREFLIGHT_VALIDATION.md",
+    "source_sha256": "d673edba8793d0d2dc3ffa8cc4bf63052eababfb238162a87b7c1c57e42bf174",
+    "package_sha256": "d673edba8793d0d2dc3ffa8cc4bf63052eababfb238162a87b7c1c57e42bf174",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PROSPECTIVE_TIMEOUT_RESULTS.md",
+    "source_sha256": "825ba94bc1b6d6f5c28cec1b9ad6bdc6a1ca046a8b577b8d626826927b2dc093",
+    "package_sha256": "825ba94bc1b6d6f5c28cec1b9ad6bdc6a1ca046a8b577b8d626826927b2dc093",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PROSPECTIVE_TIMEOUT_PROTOCOL.md",
+    "source_sha256": "c1198ff5baff784b7a34b051ef21dc8546bf49d912b2fa674c54ca43352cbb70",
+    "package_sha256": "c1198ff5baff784b7a34b051ef21dc8546bf49d912b2fa674c54ca43352cbb70",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CO2_ACCOUNTING.md",
+    "source_sha256": "3fbe3263f4943ad754d424645a489c51709a780025185aaa5f51ba5a9ad0790b",
+    "package_sha256": "3fbe3263f4943ad754d424645a489c51709a780025185aaa5f51ba5a9ad0790b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/BIBLIOGRAPHY_VERIFICATION_V26.md",
+    "source_sha256": "7a5f33b6827e82480d0e39cd9c40af0709b9f96b58e02950b96ee6fad3804e45",
+    "package_sha256": "7a5f33b6827e82480d0e39cd9c40af0709b9f96b58e02950b96ee6fad3804e45",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/DYNAMIC_REPLICATION_VALIDATION.md",
+    "source_sha256": "0c5b993c26e57aabf519014808dddef7f5d4ac1f8feb981ff2c66548f50400df",
+    "package_sha256": "0c5b993c26e57aabf519014808dddef7f5d4ac1f8feb981ff2c66548f50400df",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/LANE_FEASIBILITY_FINDING.md",
+    "source_sha256": "63e0875bfa30b586e0ea9cd8b0231ce722d10a2578f418b07d5a2a555e4d3d92",
+    "package_sha256": "63e0875bfa30b586e0ea9cd8b0231ce722d10a2578f418b07d5a2a555e4d3d92",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PROTOCOL_SOURCES_20261030.md",
+    "source_sha256": "38a171603efe326c30605f7c34fa892c91ecbd89d4519e6ee1f10f8752f30215",
+    "package_sha256": "38a171603efe326c30605f7c34fa892c91ecbd89d4519e6ee1f10f8752f30215",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_UPTAKE.md",
+    "source_sha256": "43c1ed07962f4e46f0a6be4c6b053e2534753bc0df67c366798824ede024961b",
+    "package_sha256": "43c1ed07962f4e46f0a6be4c6b053e2534753bc0df67c366798824ede024961b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_POLICY_LOCAL_V32.md",
+    "source_sha256": "672807527e75953b33e319bd70af9751be0263ac76b324e5957c714a8715d3f5",
+    "package_sha256": "672807527e75953b33e319bd70af9751be0263ac76b324e5957c714a8715d3f5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CHRONOLOGICAL_REPLAY.md",
+    "source_sha256": "e9f6393691e118c828aeb09537a25cc426939d8552225802e03b4fe47b339c5c",
+    "package_sha256": "e9f6393691e118c828aeb09537a25cc426939d8552225802e03b4fe47b339c5c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CONSUMER_STREAM.md",
+    "source_sha256": "393ace97aa4ae5344ba53dfc0dfc222d6b62e2517c95dbb4598878f47c31f2d3",
+    "package_sha256": "393ace97aa4ae5344ba53dfc0dfc222d6b62e2517c95dbb4598878f47c31f2d3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_POLICY_BRIDGE_V31.md",
+    "source_sha256": "402eb236254c603c4c49244a040ffd69901023e445464ef2acee2360c8190ebe",
+    "package_sha256": "402eb236254c603c4c49244a040ffd69901023e445464ef2acee2360c8190ebe",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PEDRALBES_IMPORT_SENSITIVITY.md",
+    "source_sha256": "4f7eda3d6574393d9f8e7958a0764a62d72fdfc26e1af924e14d5fac136ba0ab",
+    "package_sha256": "4f7eda3d6574393d9f8e7958a0764a62d72fdfc26e1af924e14d5fac136ba0ab",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/ALIGNMENT_FEASIBILITY.md",
+    "source_sha256": "3ae79e27385ee721838241cd5598cf74c5bd70798f3ad0ca8f1d8c80ed230f1c",
+    "package_sha256": "3ae79e27385ee721838241cd5598cf74c5bd70798f3ad0ca8f1d8c80ed230f1c",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PEdRALBES_DIAGNOSTIC.md",
+    "source_sha256": "220e16d5389e11e62d0ec3d6cf0cc2cdc7238f9ccef3602de4a166b1a15887f5",
+    "package_sha256": "220e16d5389e11e62d0ec3d6cf0cc2cdc7238f9ccef3602de4a166b1a15887f5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/PROTOCOL_SCOPE.md",
+    "source_sha256": "c0b27ae77599c03f1d0176514a3fe7c480244bbb322a4a629ee7a14946626e2e",
+    "package_sha256": "c0b27ae77599c03f1d0176514a3fe7c480244bbb322a4a629ee7a14946626e2e",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CORRECTNESS_REVIEW.md",
+    "source_sha256": "7ec31681225134eccdb2b166821b97f151e0e7d9408b2a9793ce225108f417d9",
+    "package_sha256": "7ec31681225134eccdb2b166821b97f151e0e7d9408b2a9793ce225108f417d9",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/CITY_CONSUMER.md",
+    "source_sha256": "2cfbece994160fa48435706073b0d9a04d02288007b1c3a68471be699a6048f2",
+    "package_sha256": "2cfbece994160fa48435706073b0d9a04d02288007b1c3a68471be699a6048f2",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/REVIEW_RESPONSE_V33.md",
+    "source_sha256": "ee7150e9aa94903141eb0bb6513718f7c6c55145fe71c289effe336e928895aa",
+    "package_sha256": "ee7150e9aa94903141eb0bb6513718f7c6c55145fe71c289effe336e928895aa",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/LIVE_STREAM.md",
+    "source_sha256": "49c3ab302d1b5142c6d226f7ffc676992390143b3861b4596cd160f15813d6e7",
+    "package_sha256": "49c3ab302d1b5142c6d226f7ffc676992390143b3861b4596cd160f15813d6e7",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/trace_manifest.json",
+    "source_sha256": "cd7a0a81a97986994c100b8f1eb2fd3e14b8bee02a17646926340c15663928d5",
+    "package_sha256": "cd7a0a81a97986994c100b8f1eb2fd3e14b8bee02a17646926340c15663928d5",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/pilot_results.json",
+    "source_sha256": "798904499427281f850050e7240ef851a48e483bfb8daeef410921ef35e9c352",
+    "package_sha256": "798904499427281f850050e7240ef851a48e483bfb8daeef410921ef35e9c352",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/pilot_summary.csv",
+    "source_sha256": "f3f2c8ee23234485cb396d3e159fb0f119e99eb4dfec39600dd685c9599fdced",
+    "package_sha256": "f3f2c8ee23234485cb396d3e159fb0f119e99eb4dfec39600dd685c9599fdced",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/inference_summary.json",
+    "source_sha256": "b44299ce3a3df8021afc61eda8317f1c2193725161e9fcde24258515de9fcef3",
+    "package_sha256": "b44299ce3a3df8021afc61eda8317f1c2193725161e9fcde24258515de9fcef3",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/multimodel_summary.json",
+    "source_sha256": "3b2253e1d8c7e5c0154e5f69ce066cb03c68627bac95078da42a2fbaf346773b",
+    "package_sha256": "3b2253e1d8c7e5c0154e5f69ce066cb03c68627bac95078da42a2fbaf346773b",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/async_validation.json",
+    "source_sha256": "89387dc4fc7930bad509c22bb352ad6be4c3c5d3ed660c663ef459dd54e888ff",
+    "package_sha256": "89387dc4fc7930bad509c22bb352ad6be4c3c5d3ed660c663ef459dd54e888ff",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/async_validation_checks.json",
+    "source_sha256": "a2793fc27acba70bb3f5969b1022c9ba230ff215111652e854912a1225129415",
+    "package_sha256": "a2793fc27acba70bb3f5969b1022c9ba230ff215111652e854912a1225129415",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/incident_validation.json",
+    "source_sha256": "80a6e129c1206125dd7ce3435fdeb9559b990c7ed99ae829491eca06666215ed",
+    "package_sha256": "80a6e129c1206125dd7ce3435fdeb9559b990c7ed99ae829491eca06666215ed",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/three_city_checks.json",
+    "source_sha256": "dd7cfb05aca5b9989030525fb1817da5eb2afb3a4ed5ebac370c05ba4feaa0b9",
+    "package_sha256": "dd7cfb05aca5b9989030525fb1817da5eb2afb3a4ed5ebac370c05ba4feaa0b9",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/three_city_infrastructure.json",
+    "source_sha256": "8be62384154da3984a8e04c77efa8d25d34f90fdb0e8a27feb15dff79edfd840",
+    "package_sha256": "8be62384154da3984a8e04c77efa8d25d34f90fdb0e8a27feb15dff79edfd840",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "reports/lane_route_audit.json",
+    "source_sha256": "1ade6505f9d0bd159fa378ae143b660162a75c357d350ecfd5be28b8114e4ed9",
+    "package_sha256": "1ade6505f9d0bd159fa378ae143b660162a75c357d350ecfd5be28b8114e4ed9",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "human_review/v1/reviewer_B.json",
+    "source_sha256": "74d42d8906187c47cb5c464a1c47495d51977020778bad5f70549774b56556a0",
+    "package_sha256": "74d42d8906187c47cb5c464a1c47495d51977020778bad5f70549774b56556a0",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "human_review/v1/README.md",
+    "source_sha256": "1c52eac2722678aac84519c31f29f505702f244e569ee3a239bce22e17ca8979",
+    "package_sha256": "1c52eac2722678aac84519c31f29f505702f244e569ee3a239bce22e17ca8979",
+    "sanitized": false,
+    "publication_copy_changed": false
+  },
+  {
+    "path": "human_review/v1/reviewer_A.json",
+    "source_sha256": "10869596db90f5ff6c033aa78a0e938c4474cbcfc15b6a55d7bccacdf89eeefd",
+    "package_sha256": "10869596db90f5ff6c033aa78a0e938c4474cbcfc15b6a55d7bccacdf89eeefd",
+    "sanitized": false,
+    "publication_copy_changed": false
+  }
+]

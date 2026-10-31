@@ -1,0 +1,28 @@
+{
+  "stage": "development_service_replay_not_confirmatory",
+  "budgets_s": [
+    0.5,
+    2,
+    5,
+    15
+  ],
+  "policies": [
+    "none",
+    "rules",
+    "content",
+    "deadline"
+  ],
+  "fixtures": "Existing eight constructed cases, three repetitions; not24independent language cases",
+  "models": [
+    "Qwen/Qwen3-30B-A3B-Instruct-2507",
+    "openai/gpt-oss-120b",
+    "nvidia/nemotron-3-super-120b-a12b",
+    "qwen2.5:14b",
+    "phi4:latest",
+    "llama3.1:8b"
+  ],
+  "timing": "Recorded sequential request elapsed time; no simulated network delay, no queue/load or concurrent hardware inference claim",
+  "freshness": "Single fixed received observation with age limit60s, stable for diagnostic; isolates audit timing from freshness",
+  "deadline": "Oracle replay knows completed elapsed time; fallback when greater than budget, not a deployable latency predictor",
+  "reference": "Constructed labels; qualified-clean versus unsure boundary not human-validated"
+}

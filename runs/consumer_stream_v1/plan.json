@@ -1,0 +1,27 @@
+{
+  "profiles": [
+    1,
+    6
+  ],
+  "close_s": 22,
+  "reopen_s": 38,
+  "observation_period_s": 5,
+  "age_limit_s": 5,
+  "audit_snapshot_s": 21,
+  "consume_times_s": [
+    21.5,
+    22.2,
+    25.0001,
+    25.6,
+    27,
+    50
+  ],
+  "policies": [
+    "none",
+    "rules",
+    "content",
+    "deadline"
+  ],
+  "verdict": "fixed accept; not a model measurement",
+  "scope": "shadow advisory decisions over SUMO permission truth with recorded LTE packet transport; no applied route changes or policy performance comparison"
+}

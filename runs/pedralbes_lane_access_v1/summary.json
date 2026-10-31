@@ -1,0 +1,13 @@
+[
+  {
+    "variant": "no_guessed_ramps_lane_access",
+    "requested": 600,
+    "routed": 596,
+    "unroutable": 4,
+    "arrived": 577,
+    "running": 19,
+    "waiting": 0,
+    "collisions": 0,
+    "teleports": 0
+  }
+]

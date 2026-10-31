@@ -1,0 +1,314 @@
+[
+  {
+    "city": "los_angeles",
+    "uptake": 0,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 0,
+    "diverted": 0,
+    "exposed": 67,
+    "co2_kg": 665.72295562,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 0.25,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 151,
+    "diverted": 17,
+    "exposed": 67,
+    "co2_kg": 645.48564987,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 0.5,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 316,
+    "diverted": 36,
+    "exposed": 67,
+    "co2_kg": 641.76877129,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 1,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 600,
+    "diverted": 66,
+    "exposed": 67,
+    "co2_kg": 604.76637265,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 0,
+    "diverted": 0,
+    "exposed": 116,
+    "co2_kg": 491.03807545,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0.25,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 154,
+    "diverted": 33,
+    "exposed": 116,
+    "co2_kg": 496.49733480000003,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0.5,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 296,
+    "diverted": 59,
+    "exposed": 116,
+    "co2_kg": 493.2939248,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 1,
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "assigned": 600,
+    "diverted": 116,
+    "exposed": 116,
+    "co2_kg": 372.05452922,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0,
+    "requested": 600,
+    "accepted": 577,
+    "excluded": 23,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "assigned": 0,
+    "diverted": 0,
+    "exposed": 81,
+    "co2_kg": 511.83783446999996,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0.25,
+    "requested": 600,
+    "accepted": 577,
+    "excluded": 23,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "assigned": 140,
+    "diverted": 27,
+    "exposed": 81,
+    "co2_kg": 484.38876233999997,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0.5,
+    "requested": 600,
+    "accepted": 577,
+    "excluded": 23,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "assigned": 286,
+    "diverted": 48,
+    "exposed": 81,
+    "co2_kg": 387.63975112,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 1,
+    "requested": 600,
+    "accepted": 577,
+    "excluded": 23,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "assigned": 577,
+    "diverted": 81,
+    "exposed": 81,
+    "co2_kg": 359.03923797000004,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  }
+]

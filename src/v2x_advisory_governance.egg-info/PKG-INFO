@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: v2x-advisory-governance
+Version: 0.1.0
+Summary: Deadline-aware governance benchmark for connected-mobility advisories
+Requires-Python: >=3.11
+Requires-Dist: eclipse-sumo==1.27.1
+Requires-Dist: traci==1.27.1
+Requires-Dist: sumolib==1.27.1
+Requires-Dist: sumo-data==1.27.1
+Requires-Dist: httpx
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib

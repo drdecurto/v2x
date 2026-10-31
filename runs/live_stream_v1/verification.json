@@ -1,0 +1,16 @@
+[
+  {
+    "mode": "fixed_2s",
+    "packet_records_checked": 1212,
+    "decision": "content_accept",
+    "pending_steps": 21,
+    "passed": true
+  },
+  {
+    "mode": "ollama",
+    "packet_records_checked": 1212,
+    "decision": "decision_point_passed",
+    "pending_steps": 150,
+    "passed": true
+  }
+]

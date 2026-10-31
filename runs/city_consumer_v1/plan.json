@@ -1,0 +1,26 @@
+{
+  "stage": "development_contract_only",
+  "cases": [
+    "supported",
+    "unsupported_green",
+    "contradicted",
+    "qualified",
+    "stale",
+    "changed_version",
+    "missed_decision"
+  ],
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "policies": [
+    "none",
+    "rules",
+    "content",
+    "deadline"
+  ],
+  "verdicts": "Scripted accept except unsupported_green reject; not model observations",
+  "transport": "Direct receiver injection, no empirical packet timing",
+  "traffic": "Routes selected only, no SUMO execution or new CO2 results"
+}

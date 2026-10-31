@@ -1,0 +1,81 @@
+{
+  "city": "los_angeles",
+  "edges": 1497,
+  "junctions": 720,
+  "signal_controllers": 188,
+  "net_sha256": "b8ab7e2d6a2ffc231d3541b7ec607ee1a9c98e131456eaf047c5f2933cda8621",
+  "rsus": 12,
+  "e2_detectors": 107,
+  "observation_records": 5760,
+  "observations_with_vehicles": 1262,
+  "valid_routes": 600,
+  "arrived": 600,
+  "unfinished": 0,
+  "max_running": 190,
+  "statistics": {
+    "performance": {
+      "clockBegin": "1793325333.83",
+      "clockEnd": "1793325340.77",
+      "clockDuration": "6.95",
+      "traciDuration": "4.10",
+      "realTimeFactor": "345.57",
+      "vehicleUpdatesPerSecond": "45914.04",
+      "personUpdatesPerSecond": "0.00",
+      "begin": "0.00",
+      "end": "2400.00",
+      "duration": "2400.00"
+    },
+    "vehicles": {
+      "loaded": "600",
+      "inserted": "600",
+      "running": "0",
+      "waiting": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "persons": {
+      "loaded": "0",
+      "running": "0",
+      "jammed": "0"
+    },
+    "personTeleports": {
+      "total": "0",
+      "abortWait": "0",
+      "wrongDest": "0"
+    },
+    "vehicleTripStatistics": {
+      "count": "600",
+      "routeLength": "2218.44",
+      "speed": "8.72",
+      "duration": "265.73",
+      "waitingTime": "88.29",
+      "timeLoss": "162.40",
+      "departDelay": "0.01",
+      "departDelayWaiting": "0.00",
+      "totalTravelTime": "159436.50",
+      "totalDepartDelay": "6.00"
+    },
+    "pedestrianStatistics": {
+      "number": "0",
+      "routeLength": "0.00",
+      "duration": "0.00",
+      "timeLoss": "0.00"
+    },
+    "rideStatistics": {
+      "number": "0"
+    },
+    "transportStatistics": {
+      "number": "0"
+    }
+  },
+  "status": "development; synthetic demand, inferred signal timing; no radio delivery or governance comparison yet"
+}

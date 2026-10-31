@@ -1,0 +1,40 @@
+[
+  {
+    "profile": 1,
+    "packets": 6270,
+    "received": 5327,
+    "lost": 943,
+    "max_consecutive_lost_packets": 112,
+    "source_observations_used": 26,
+    "decisions": {
+      "updated": 26,
+      "duplicate": 5278,
+      "age_rejected": 23
+    },
+    "max_json_snapshot_bytes": 682,
+    "recorded_packet_size": 1470,
+    "trace_duration_s": 125.37964,
+    "source_sha256": "2c4f550c22ccb56b4cfe3a295a1ebf1b3d73742ea12e50c8ca09dc886b7997a1",
+    "trace_sha256": "326e5e9f32aa359f13b84bf4ec70fa52bff4ef7bad7abe645bcd6a30e7a5f6c7",
+    "note": "JSON byte check excludes protocol overhead and is not wire-format validation. Repeated snapshots match recorded offered load, not sparse advisory traffic."
+  },
+  {
+    "profile": 6,
+    "packets": 4949,
+    "received": 3431,
+    "lost": 1518,
+    "max_consecutive_lost_packets": 115,
+    "source_observations_used": 20,
+    "decisions": {
+      "updated": 20,
+      "duplicate": 3400,
+      "age_rejected": 11
+    },
+    "max_json_snapshot_bytes": 669,
+    "recorded_packet_size": 1470,
+    "trace_duration_s": 98.960027,
+    "source_sha256": "2c4f550c22ccb56b4cfe3a295a1ebf1b3d73742ea12e50c8ca09dc886b7997a1",
+    "trace_sha256": "3d8c14221b8842ec6e582668dce5319c5b0a5d0afdad5ef0b4c43dd389be67fc",
+    "note": "JSON byte check excludes protocol overhead and is not wire-format validation. Repeated snapshots match recorded offered load, not sparse advisory traffic."
+  }
+]

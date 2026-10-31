@@ -1,0 +1,160 @@
+{
+  "stage": "outcome_selected_development_diagnostic",
+  "selection": "All blocks with post-closure entries in replication_dynamics_v1; not representative effect estimation",
+  "end_s": 305,
+  "step_s": 0.5,
+  "closure_s": 300,
+  "record_s": [
+    298,
+    305
+  ],
+  "cases": [
+    {
+      "city": "los_angeles",
+      "seed": 4206,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "77"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4208,
+      "entries": [
+        {
+          "time_s": 301.0,
+          "vehicle_id": "22"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4209,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "173"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4211,
+      "entries": [
+        {
+          "time_s": 301.0,
+          "vehicle_id": "125"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4213,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "108"
+        },
+        {
+          "time_s": 300.5,
+          "vehicle_id": "133"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4216,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "69"
+        }
+      ]
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4217,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "123"
+        }
+      ]
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4204,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "110"
+        }
+      ]
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4212,
+      "entries": [
+        {
+          "time_s": 304.0,
+          "vehicle_id": "67"
+        },
+        {
+          "time_s": 304.0,
+          "vehicle_id": "87"
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4209,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "123"
+        },
+        {
+          "time_s": 302.0,
+          "vehicle_id": "107"
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4211,
+      "entries": [
+        {
+          "time_s": 300.5,
+          "vehicle_id": "167"
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4216,
+      "entries": [
+        {
+          "time_s": 301.0,
+          "vehicle_id": "112"
+        },
+        {
+          "time_s": 303.0,
+          "vehicle_id": "114"
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4217,
+      "entries": [
+        {
+          "time_s": 304.0,
+          "vehicle_id": "163"
+        }
+      ]
+    }
+  ],
+  "inference_calls": 0
+}

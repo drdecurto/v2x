@@ -1,0 +1,79 @@
+{
+  "accounting_and_record_checks": "passed",
+  "blocks": 60,
+  "summary": {
+    "los_angeles": {
+      "accepted": 12000,
+      "excluded": 0,
+      "eligible": 104,
+      "decisions": 104,
+      "applied": 104,
+      "arrived": 11980,
+      "running": 20,
+      "pending": 0,
+      "new_closed_edge_entries": 8,
+      "blocks": 20,
+      "grandfathered": 21,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 4,
+        "emergencyBraking": 5
+      },
+      "teleports": {
+        "total": 0,
+        "jam": 0,
+        "yield": 0,
+        "wrongLane": 0
+      }
+    },
+    "luxembourg": {
+      "accepted": 12000,
+      "excluded": 0,
+      "eligible": 161,
+      "decisions": 161,
+      "applied": 161,
+      "arrived": 11961,
+      "running": 39,
+      "pending": 0,
+      "new_closed_edge_entries": 3,
+      "blocks": 20,
+      "grandfathered": 21,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 0,
+        "emergencyBraking": 0
+      },
+      "teleports": {
+        "total": 0,
+        "jam": 0,
+        "yield": 0,
+        "wrongLane": 0
+      }
+    },
+    "pedralbes": {
+      "accepted": 11543,
+      "excluded": 457,
+      "eligible": 94,
+      "decisions": 94,
+      "applied": 94,
+      "arrived": 11311,
+      "running": 232,
+      "pending": 0,
+      "new_closed_edge_entries": 6,
+      "blocks": 20,
+      "grandfathered": 21,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 1,
+        "emergencyBraking": 6
+      },
+      "teleports": {
+        "total": 0,
+        "jam": 0,
+        "yield": 0,
+        "wrongLane": 0
+      }
+    }
+  },
+  "note": "Record consistency does not imply safety validation passed; retain emergency stops and other failures."
+}

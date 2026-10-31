@@ -1,0 +1,26 @@
+{
+  "stage": "development_validation_not_confirmatory",
+  "episodes": 12,
+  "all_arrived": true,
+  "closed_lane_entries": 0,
+  "network_sha256": "40c75766b304b76b9d9e1010b5cc632ff4fb7d8ceb7698d7174eda7ffbb485c6",
+  "means": {
+    "open": {
+      "travel_duration_s": 82.06666666666666,
+      "waiting_on_approach_s": 0.0
+    },
+    "wait": {
+      "travel_duration_s": 145.33333333333334,
+      "waiting_on_approach_s": 58.13333333333333
+    },
+    "detour": {
+      "travel_duration_s": 121.66666666666667,
+      "waiting_on_approach_s": 0.0
+    },
+    "both_blocked": {
+      "travel_duration_s": 145.33333333333334,
+      "waiting_on_approach_s": 58.13333333333333
+    }
+  },
+  "scope": "Single passenger vehicle, one-lane toy network; permissions closure begins at 5 s and reopens at 80 s. No collision, emergency-braking, congestion or field safety claim."
+}

@@ -1,0 +1,319 @@
+[
+  {
+    "city": "los_angeles",
+    "seed": 4206,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "77"
+      }
+    ],
+    "at_closure": {
+      "77": {
+        "road": ":72027628_7",
+        "lane": ":72027628_7_2",
+        "position_m": 14.738786540108272,
+        "speed_m_s": 22.290212772395748,
+        "route_index": 12
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4208,
+    "entries_reproduced": [
+      {
+        "time_s": 301.0,
+        "vehicle_id": "22"
+      }
+    ],
+    "at_closure": {
+      "22": {
+        "road": ":1736499199_5",
+        "lane": ":1736499199_5_2",
+        "position_m": 16.44223440773598,
+        "speed_m_s": 8.078346354494625,
+        "route_index": 18
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4209,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "173"
+      }
+    ],
+    "at_closure": {
+      "173": {
+        "road": ":72027616_4",
+        "lane": ":72027616_4_2",
+        "position_m": 17.52109976829649,
+        "speed_m_s": 23.120334760069575,
+        "route_index": 4
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4211,
+    "entries_reproduced": [
+      {
+        "time_s": 301.0,
+        "vehicle_id": "125"
+      }
+    ],
+    "at_closure": {
+      "125": {
+        "road": ":72027616_4",
+        "lane": ":72027616_4_2",
+        "position_m": 8.86903646582149,
+        "speed_m_s": 7.349870546007323,
+        "route_index": 7
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4213,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "108"
+      },
+      {
+        "time_s": 300.5,
+        "vehicle_id": "133"
+      }
+    ],
+    "at_closure": {
+      "108": {
+        "road": ":72027653_5",
+        "lane": ":72027653_5_2",
+        "position_m": 14.845999515243706,
+        "speed_m_s": 10.971010807144172,
+        "route_index": 14
+      },
+      "133": {
+        "road": ":72027653_5",
+        "lane": ":72027653_5_0",
+        "position_m": 16.86003341448619,
+        "speed_m_s": 11.101712347631437,
+        "route_index": 11
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 2
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4216,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "69"
+      }
+    ],
+    "at_closure": {
+      "69": {
+        "road": ":72027653_5",
+        "lane": ":72027653_5_2",
+        "position_m": 18.109553197165507,
+        "speed_m_s": 21.087833022553717,
+        "route_index": 21
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4217,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "123"
+      }
+    ],
+    "at_closure": {
+      "123": {
+        "road": ":72027628_7",
+        "lane": ":72027628_7_2",
+        "position_m": 15.622993114938001,
+        "speed_m_s": 23.303597425923677,
+        "route_index": 11
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4204,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "110"
+      }
+    ],
+    "at_closure": {
+      "110": {
+        "road": ":31003697_3",
+        "lane": ":31003697_3_0",
+        "position_m": 3.8790051816394007,
+        "speed_m_s": 13.279600323642363,
+        "route_index": 18
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4212,
+    "entries_reproduced": [
+      {
+        "time_s": 304.0,
+        "vehicle_id": "67"
+      },
+      {
+        "time_s": 304.0,
+        "vehicle_id": "87"
+      }
+    ],
+    "at_closure": {
+      "67": {
+        "road": ":cluster_247325432_255919324_4",
+        "lane": ":cluster_247325432_255919324_4_0",
+        "position_m": 0.6182490959732974,
+        "speed_m_s": 2.2412942481993245,
+        "route_index": 14
+      },
+      "87": {
+        "road": ":cluster_247325432_255919324_4",
+        "lane": ":cluster_247325432_255919324_4_1",
+        "position_m": 0.6069912217708691,
+        "speed_m_s": 2.081370954630492,
+        "route_index": 12
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 2
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4209,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "123"
+      },
+      {
+        "time_s": 302.0,
+        "vehicle_id": "107"
+      }
+    ],
+    "at_closure": {
+      "107": {
+        "road": ":365287928_2",
+        "lane": ":365287928_2_0",
+        "position_m": 5.69320054140927,
+        "speed_m_s": 9.937028672015263,
+        "route_index": 18
+      },
+      "123": {
+        "road": ":365287928_2",
+        "lane": ":365287928_2_0",
+        "position_m": 23.294397222831794,
+        "speed_m_s": 11.68992476355784,
+        "route_index": 8
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 2
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4211,
+    "entries_reproduced": [
+      {
+        "time_s": 300.5,
+        "vehicle_id": "167"
+      }
+    ],
+    "at_closure": {
+      "167": {
+        "road": ":30294569_1",
+        "lane": ":30294569_1_1",
+        "position_m": 8.428021345030508,
+        "speed_m_s": 6.653382280258144,
+        "route_index": 7
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4216,
+    "entries_reproduced": [
+      {
+        "time_s": 301.0,
+        "vehicle_id": "112"
+      },
+      {
+        "time_s": 303.0,
+        "vehicle_id": "114"
+      }
+    ],
+    "at_closure": {
+      "112": {
+        "road": ":365287928_13",
+        "lane": ":365287928_13_0",
+        "position_m": 16.363220133495417,
+        "speed_m_s": 9.130333294938117,
+        "route_index": 20
+      },
+      "114": {
+        "road": ":365287928_13",
+        "lane": ":365287928_13_0",
+        "position_m": 1.0508361331934282,
+        "speed_m_s": 7.420509220252351,
+        "route_index": 19
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 2
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4217,
+    "entries_reproduced": [
+      {
+        "time_s": 304.0,
+        "vehicle_id": "163"
+      }
+    ],
+    "at_closure": {
+      "163": {
+        "road": ":365287928_13",
+        "lane": ":365287928_13_0",
+        "position_m": 0.5427381563425797,
+        "speed_m_s": 2.0499673351097183,
+        "route_index": 8
+      }
+    },
+    "all_on_internal_lanes": true,
+    "target_count": 1
+  }
+]

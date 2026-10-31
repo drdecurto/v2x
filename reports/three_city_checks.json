@@ -1,0 +1,38 @@
+[
+  {
+    "city": "los_angeles",
+    "passed": true,
+    "arrived": 600,
+    "running": 0,
+    "waiting_to_insert": 0,
+    "loaded": 600,
+    "detectors": 107,
+    "record_count": 5760,
+    "halting_exceeds_vehicle_count_samples": 5,
+    "warnings": 14
+  },
+  {
+    "city": "luxembourg",
+    "passed": true,
+    "arrived": 600,
+    "running": 0,
+    "waiting_to_insert": 0,
+    "loaded": 600,
+    "detectors": 65,
+    "record_count": 5760,
+    "halting_exceeds_vehicle_count_samples": 2,
+    "warnings": 3
+  },
+  {
+    "city": "pedralbes",
+    "passed": true,
+    "arrived": 532,
+    "running": 66,
+    "waiting_to_insert": 2,
+    "loaded": 600,
+    "detectors": 110,
+    "record_count": 5760,
+    "halting_exceeds_vehicle_count_samples": 7,
+    "warnings": 6
+  }
+]

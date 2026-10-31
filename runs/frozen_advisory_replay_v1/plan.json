@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-30T21:58:20.562552+00:00",
+  "stage": "exploratory_offline_response_path_sensitivity",
+  "profiles": [
+    "ideal",
+    "1",
+    "6"
+  ],
+  "soft_timeout_s": 2,
+  "hard_deadline_s": 5,
+  "evidence_age_limit_s": 5,
+  "policies": [
+    "none",
+    "rules",
+    "content",
+    "deadline"
+  ],
+  "initial_evidence": "All arms begin with the exact benchmark observation already available at the auditor/consumer. No observation-refresh process; stale cases remain stale. Conditional on initial receipt, not full V2X exchange.",
+  "route": "Map each case road to A; choose main if observed open, detour if closed; structured claimed_closed equals evidence. Prose contradictions are not silently parsed into structured fields. No vehicle controls executed.",
+  "timing": "Measured client duration used as event duration, no extra inference. Deadline emits returned verdict before2s or template at2s on pending/failure; content withholds at5s if incomplete. This is simulated timer replay, not a new live asynchronous experiment.",
+  "transport": "Every arm uses first native TX at/after message ready. One packet, no retries, receive delay/loss preserved. Baselines transmit at0 readiness; content/timeout at their readiness. Hard5s application deadline and evidence expiry rechecked at delivery. Native offered load is a replay abstraction, not generated network performance.",
+  "alignment": "Request trace epoch 10+6*world+wording seconds (absolute in stored trace); same for all categories/models/policies. Isolated case replay, not simultaneous load. No looping/resampling.",
+  "scope": "Two reused stationary LTE traces, no city coupling, no urban/5G/6G validation. No independent packet/model/case population inference.",
+  "cases": 180,
+  "models": 6,
+  "expected_decisions": 12960
+}

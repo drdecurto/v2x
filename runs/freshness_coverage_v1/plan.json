@@ -1,0 +1,11 @@
+{
+  "profiles": [
+    1,
+    6
+  ],
+  "window": "first to last recorded transmission, no extrapolation into drain",
+  "age_limit_s": 5,
+  "measure": "exact time integration using accepted received observations only; initial missing interval counted",
+  "verification": "independent 1ms midpoint receiver sweep; bound = two samples per accepted update plus expiry",
+  "scope": "single-link offline sensitivity, no auditor or traffic feedback"
+}

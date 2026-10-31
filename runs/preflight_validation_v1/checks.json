@@ -1,0 +1,26 @@
+[
+  {
+    "seed": 4101,
+    "requested": 600,
+    "accepted_and_arrived": 577,
+    "unroutable": 4,
+    "lane_rejected": 19,
+    "exact_unfiltered_stranded_match": true
+  },
+  {
+    "seed": 4102,
+    "requested": 600,
+    "accepted_and_arrived": 576,
+    "unroutable": 7,
+    "lane_rejected": 17,
+    "exact_unfiltered_stranded_match": true
+  },
+  {
+    "seed": 4103,
+    "requested": 600,
+    "accepted_and_arrived": 573,
+    "unroutable": 1,
+    "lane_rejected": 26,
+    "exact_unfiltered_stranded_match": true
+  }
+]

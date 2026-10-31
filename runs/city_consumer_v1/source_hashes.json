@@ -1,0 +1,8 @@
+{
+  "runs/city_uptake_v3/los_angeles/fixture.json": "c10b60793e2fba1d05c383566d1acdfdff70cf80d8b6a44d0eb0e57fb3e3c987",
+  "runs/city_preflight_v1/los_angeles/accepted.xml": "0dd15b0c6973fc11c82680c91a4b0d62baad98bd4f74d80696383d3593dcf459",
+  "runs/city_uptake_v3/luxembourg/fixture.json": "8a6e63a4a33757b0896e4d09157752dcd92cca0d2f4f694ce54dca115ea95c96",
+  "runs/city_preflight_v1/luxembourg/accepted.xml": "40be00b692a1557327d60275b8a4cc560ffa22adbd2745015f690787df51f81e",
+  "runs/city_uptake_v3/pedralbes/fixture.json": "b1ea8279727175ec957e130be41977b4ef8cb48da7127d032a879240862a80b5",
+  "runs/city_preflight_v1/pedralbes/accepted.xml": "1956a712e30abca8396265ee71effed8678cbebc876667a182b7fece03338fe5"
+}

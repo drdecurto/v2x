@@ -1,0 +1,29 @@
+[
+  {
+    "city": "los_angeles",
+    "network_only_type_changed": true,
+    "records_checked": 5760,
+    "signal_detector_warning_lines": 0,
+    "halting_exceeds_presence_records": 2,
+    "arrived": 592,
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "network_only_type_changed": true,
+    "records_checked": 5760,
+    "signal_detector_warning_lines": 0,
+    "halting_exceeds_presence_records": 5,
+    "arrived": 600,
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "network_only_type_changed": true,
+    "records_checked": 5760,
+    "signal_detector_warning_lines": 0,
+    "halting_exceeds_presence_records": 2,
+    "arrived": 577,
+    "passed": true
+  }
+]

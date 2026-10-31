@@ -1,0 +1,4 @@
+{
+  "reason": "First LA run failed exact rate/trip reconciliation. Preserve original plan and raw run. Primary reporting uses tripinfo movement-device totals including unfinished trips; rate integrals retained as diagnostics, not asserted identical.",
+  "source": "SUMO1.27.1 MSDevice_Emissions::notifyMove versus MSEmissionExport::writeEmissions"
+}

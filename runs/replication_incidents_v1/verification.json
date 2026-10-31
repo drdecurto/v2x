@@ -1,0 +1,308 @@
+{
+  "passed": true,
+  "blocks": 60,
+  "requested": 36000,
+  "eligible": 359,
+  "checks": [
+    {
+      "city": "los_angeles",
+      "seed": 4201,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4202,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4203,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4204,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4205,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4206,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4207,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4208,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4209,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4210,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4211,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4212,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4213,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4214,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4215,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4216,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4217,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4218,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4219,
+      "passed": true
+    },
+    {
+      "city": "los_angeles",
+      "seed": 4220,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4201,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4202,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4203,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4204,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4205,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4206,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4207,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4208,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4209,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4210,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4211,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4212,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4213,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4214,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4215,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4216,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4217,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4218,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4219,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4220,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4201,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4202,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4203,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4204,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4205,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4206,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4207,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4208,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4209,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4210,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4211,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4212,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4213,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4214,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4215,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4216,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4217,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4218,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4219,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4220,
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-10-30T21:16:54.696780+00:00",
+  "stage": "exploratory_matched_city_sensitivity_not_auditor_effect",
+  "seeds": [
+    4201,
+    4202,
+    4203,
+    4204,
+    4205,
+    4206,
+    4207,
+    4208,
+    4209,
+    4210,
+    4211,
+    4212,
+    4213,
+    4214,
+    4215,
+    4216,
+    4217,
+    4218,
+    4219,
+    4220
+  ],
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "arms": [
+    "no_diversion",
+    "full_diversion"
+  ],
+  "closure_s": [
+    0,
+    900
+  ],
+  "end_s": 2400,
+  "primary": [
+    "arrived",
+    "running",
+    "pending",
+    "co2_kg"
+  ],
+  "analysis": "Paired full-minus-none block differences, per-city 20-block bootstrap 95% intervals, seed 8141, 10000 resamples. Report CO2 jointly with completion; retain all exclusions, unfinished trips, safety and teleports. No radio or inference. Cases already used in development; not confirmatory.",
+  "reuse": "Reuse the 12 completed preexisting_closure_v1 full-uptake blocks after input/output hashes; do not rerun duplicates.",
+  "purpose": "Quantify whether incident routing has reproducible application consequences and whether unresolved simulator failures vary by intervention. This bounds traffic claims; it cannot demonstrate content-auditor benefit."
+}

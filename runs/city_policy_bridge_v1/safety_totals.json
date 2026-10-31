@@ -1,0 +1,176 @@
+{
+  "los_angeles": {
+    "none": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 2.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "rules": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 2.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "content": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 1.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "deadline": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 1.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    }
+  },
+  "luxembourg": {
+    "none": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 0.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "rules": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 0.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "content": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 1.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "deadline": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 1.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    }
+  },
+  "pedralbes": {
+    "none": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 5.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "rules": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 5.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "content": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 4.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    },
+    "deadline": {
+      "closed_occupancy_samples": 0,
+      "safety": {
+        "emergencyBraking": 4.0,
+        "collisions": 0.0,
+        "emergencyStops": 0.0
+      },
+      "teleports": {
+        "yield": 0.0,
+        "total": 0.0,
+        "jam": 0.0,
+        "wrongLane": 0.0
+      }
+    }
+  }
+}

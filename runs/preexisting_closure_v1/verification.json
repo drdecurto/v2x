@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "summary": [
+    {
+      "city": "los_angeles",
+      "blocks": 4,
+      "accepted": 2400,
+      "running": 0,
+      "applied": 23,
+      "eligible": 23,
+      "entries": 0,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 0,
+        "emergencyBraking": 0
+      }
+    },
+    {
+      "city": "luxembourg",
+      "blocks": 4,
+      "accepted": 2400,
+      "running": 7,
+      "applied": 38,
+      "eligible": 38,
+      "entries": 0,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 0,
+        "emergencyBraking": 0
+      }
+    },
+    {
+      "city": "pedralbes",
+      "blocks": 4,
+      "accepted": 2312,
+      "running": 16,
+      "applied": 17,
+      "eligible": 17,
+      "entries": 0,
+      "safety": {
+        "collisions": 0,
+        "emergencyStops": 0,
+        "emergencyBraking": 3
+      }
+    }
+  ]
+}

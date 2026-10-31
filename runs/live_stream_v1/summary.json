@@ -1,0 +1,110 @@
+{
+  "plan": {
+    "stage": "development_not_confirmatory",
+    "modes": [
+      "fixed_2s",
+      "ollama"
+    ],
+    "profile": 6,
+    "epoch_s": 5,
+    "step_s": 0.1,
+    "paced_s": 40,
+    "seed": 6101,
+    "close_s": 5,
+    "reopen_s": 18,
+    "observation_period_s": 5,
+    "max_age_s": 5,
+    "issue_s": 11,
+    "expires_s": 36,
+    "policy": "content",
+    "remote_calls": 0,
+    "receipt_rule": "Native arrivals processed at next SUMO step; no future observation at transmission.",
+    "inference": "One local call; no retry, no warm-up; failures retained.",
+    "scope": "Component integration, not a policy-effectiveness or latency-distribution estimate."
+  },
+  "episodes": [
+    {
+      "mode": "fixed_2s",
+      "acted": true,
+      "submit_wall_s": 11.007094166998286,
+      "decision": {
+        "admit": true,
+        "mode": "content_accept",
+        "text": true,
+        "action": "detour"
+      },
+      "consume_sim_s": 13.1,
+      "consume_wall_s": 13.109040375042241,
+      "service_s": 2.005383540992625,
+      "queue_wait_s": 0.0005643750191666186,
+      "current_evidence": {
+        "source_id": "rsu",
+        "sequence": 2,
+        "observed_at_s": 10.0,
+        "road_A_closed": true,
+        "road_B_available": true
+      },
+      "audited_evidence": {
+        "source_id": "rsu",
+        "sequence": 2,
+        "observed_at_s": 10.0,
+        "road_A_closed": true,
+        "road_B_available": true
+      },
+      "audit_status": "ok",
+      "audit_decision": "accept",
+      "arrived": true,
+      "travel_duration_s": 120.9,
+      "pending_steps": 21,
+      "max_pacing_lag_s": 0.019169458036778053,
+      "max_packet_processing_lag_s": 0.09998799999999974,
+      "tx": 1750,
+      "rx": 1212,
+      "lost": 537,
+      "closed_lane_entries": 0,
+      "status": "complete"
+    },
+    {
+      "mode": "ollama",
+      "acted": false,
+      "submit_wall_s": 11.01132474996848,
+      "decision": {
+        "admit": false,
+        "mode": "decision_point_passed",
+        "text": false,
+        "action": null
+      },
+      "consume_sim_s": 26.0,
+      "consume_wall_s": 26.00863112497609,
+      "service_s": 14.99519629200222,
+      "queue_wait_s": 0.00021058297716081142,
+      "current_evidence": {
+        "source_id": "rsu",
+        "sequence": 5,
+        "observed_at_s": 25.0,
+        "road_A_closed": false,
+        "road_B_available": true
+      },
+      "audited_evidence": {
+        "source_id": "rsu",
+        "sequence": 2,
+        "observed_at_s": 10.0,
+        "road_A_closed": true,
+        "road_B_available": true
+      },
+      "audit_status": "ok",
+      "audit_decision": "accept",
+      "arrived": true,
+      "travel_duration_s": 81.6,
+      "pending_steps": 150,
+      "max_pacing_lag_s": 0.012678583001253685,
+      "max_packet_processing_lag_s": 0.09998799999999974,
+      "tx": 1750,
+      "rx": 1212,
+      "lost": 537,
+      "closed_lane_entries": 0,
+      "status": "complete"
+    }
+  ],
+  "model_digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6"
+}

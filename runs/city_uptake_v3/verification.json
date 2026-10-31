@@ -1,0 +1,98 @@
+[
+  {
+    "city": "los_angeles",
+    "uptake": 0,
+    "assignments_verified": 0,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 0.25,
+    "assignments_verified": 151,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 0.5,
+    "assignments_verified": 316,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "los_angeles",
+    "uptake": 1,
+    "assignments_verified": 600,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0,
+    "assignments_verified": 0,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0.25,
+    "assignments_verified": 154,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 0.5,
+    "assignments_verified": 296,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "luxembourg",
+    "uptake": 1,
+    "assignments_verified": 600,
+    "routes_verified": 600,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0,
+    "assignments_verified": 0,
+    "routes_verified": 577,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0.25,
+    "assignments_verified": 140,
+    "routes_verified": 577,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 0.5,
+    "assignments_verified": 286,
+    "routes_verified": 577,
+    "co2_verified": true,
+    "passed": true
+  },
+  {
+    "city": "pedralbes",
+    "uptake": 1,
+    "assignments_verified": 577,
+    "routes_verified": 577,
+    "co2_verified": true,
+    "passed": true
+  }
+]

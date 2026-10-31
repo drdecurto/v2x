@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "shadow_checks": 48,
+  "hidden_change_admissions": 8,
+  "closed_lane_entries": 0,
+  "sampling_delay_s": 3,
+  "note": "Same constructed event across four paths and two trace profiles; not48 independent trials or model measurements."
+}

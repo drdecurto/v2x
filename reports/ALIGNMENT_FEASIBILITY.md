@@ -1,0 +1,7 @@
+# Finite-window feasibility audit
+
+The development construction was saved before eligible-request counts were calculated. Transmission window: native offsets[0,90)s, epoch300s. Scheduled departure cohort:[310,370)s. Full2400s demand/background retained; no trace looping, compression, replacement requests or emissions-based selection. Profiles1/6 span125.379640/98.960027s and supply4501/4500TX opportunities in the fixed window. No performance outcome was read by the construction script. The future closure schedule[300,900] is a new development design, not a result from v21.
+
+Eligible requests:LA1,Luxembourg7,Pedralbes6. Scheduled departures in window40/40/38; eligibility additionally requires exposure and an existing lane-feasible alternative. Assigned at25%:0/0/2;50%:0/3/3;100%:1/7/6. Saved per-driver draws reconstructed independently from SHA256. All1800requested remain accounted for, including23Pedralbes preflight exclusions.
+
+This is an unfavorable feasibility finding, not a completed confirmatory freeze. The design is insufficient for policy-effect inference, especially LA. Preserve the window and counts. Do not launch a large model matrix on this single cohort or slide the window after seeing results. Next: independently specified episode blocks or longer suitable empirical traces, then calibration and sample-size justification before freezing held-out inputs. No new traffic runs or inference calls;38tests pass; shared API ledger unchanged at72reservations/USD1.046466.

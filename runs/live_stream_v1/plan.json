@@ -1,0 +1,23 @@
+{
+  "stage": "development_not_confirmatory",
+  "modes": [
+    "fixed_2s",
+    "ollama"
+  ],
+  "profile": 6,
+  "epoch_s": 5,
+  "step_s": 0.1,
+  "paced_s": 40,
+  "seed": 6101,
+  "close_s": 5,
+  "reopen_s": 18,
+  "observation_period_s": 5,
+  "max_age_s": 5,
+  "issue_s": 11,
+  "expires_s": 36,
+  "policy": "content",
+  "remote_calls": 0,
+  "receipt_rule": "Native arrivals processed at next SUMO step; no future observation at transmission.",
+  "inference": "One local call; no retry, no warm-up; failures retained.",
+  "scope": "Component integration, not a policy-effectiveness or latency-distribution estimate."
+}

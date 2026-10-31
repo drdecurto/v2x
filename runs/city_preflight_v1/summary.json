@@ -1,0 +1,65 @@
+[
+  {
+    "city": "los_angeles",
+    "requested": 600,
+    "unroutable": 0,
+    "lane_rejected": 0,
+    "accepted": 600,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "requested": 600,
+    "unroutable": 0,
+    "lane_rejected": 0,
+    "accepted": 600,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "requested": 600,
+    "unroutable": 4,
+    "lane_rejected": 19,
+    "accepted": 577,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "note": "Post-hoc normal-approximation planning scale using observed paired SD, not achieved power or evidence of equivalence; excludes multiplicity and uncertain variance. City differences remain compatible with nonzero effects.",
+  "rows": [
+    {
+      "city": "los_angeles",
+      "metric": "co2_kg",
+      "n_pairs": 20,
+      "paired_sd": 7.372595269278722,
+      "approximate_80pct_power_two_sided_05_mde": 4.618587745390708
+    },
+    {
+      "city": "los_angeles",
+      "metric": "arrived",
+      "n_pairs": 20,
+      "paired_sd": 1.6693837501494848,
+      "approximate_80pct_power_two_sided_05_mde": 1.0457912104469964
+    },
+    {
+      "city": "luxembourg",
+      "metric": "co2_kg",
+      "n_pairs": 20,
+      "paired_sd": 39.174264706916844,
+      "approximate_80pct_power_two_sided_05_mde": 24.54085329544458
+    },
+    {
+      "city": "luxembourg",
+      "metric": "arrived",
+      "n_pairs": 20,
+      "paired_sd": 14.914757792200314,
+      "approximate_80pct_power_two_sided_05_mde": 9.343401481913457
+    },
+    {
+      "city": "pedralbes",
+      "metric": "co2_kg",
+      "n_pairs": 20,
+      "paired_sd": 56.46396741029194,
+      "approximate_80pct_power_two_sided_05_mde": 35.37204721165004
+    },
+    {
+      "city": "pedralbes",
+      "metric": "arrived",
+      "n_pairs": 20,
+      "paired_sd": 21.599220258830496,
+      "approximate_80pct_power_two_sided_05_mde": 13.530906058700383
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stage": "development_after_fixed_edge_feasibility_failure",
+  "seeds": [
+    4201,
+    4202,
+    4203,
+    4204,
+    4205,
+    4206,
+    4207,
+    4208,
+    4209,
+    4210,
+    4211,
+    4212,
+    4213,
+    4214,
+    4215,
+    4216,
+    4217,
+    4218,
+    4219,
+    4220
+  ],
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "edge_rule": ">=60m passenger edge, no original trip endpoint, maximal exposure over all accepted routes, lexical tie-break; never optimize advisory-window count or outcomes",
+  "cohort": "Scheduled departure [310,370), incident exposure, existing legal-lane alternative",
+  "no_replenishment": true,
+  "no_outcome_data": true,
+  "stop_rule": "All60 blocks, including empty cohorts; same36,000 requested trips as construction audit"
+}

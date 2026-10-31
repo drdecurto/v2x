@@ -1,0 +1,35 @@
+[
+  {
+    "service": "Nebius Qwen3 30B",
+    "n": 24,
+    "successful": 24,
+    "median_s": 0.3568387920095115,
+    "min_s": 0.266559417010284,
+    "max_s": 0.48320458404487,
+    "first_s": 0.34501991700381,
+    "median_excluding_first_s": 0.357178125006612,
+    "source": "runs/nebius_development.jsonl"
+  },
+  {
+    "service": "Ollama Llama3.1 8B",
+    "n": 24,
+    "successful": 24,
+    "median_s": 1.9740049790125336,
+    "min_s": 1.1398837910383,
+    "max_s": 9.15111054101726,
+    "first_s": 9.15111054101726,
+    "median_excluding_first_s": 1.972669332986697,
+    "source": "runs/ollama_development.jsonl"
+  },
+  {
+    "service": "Ollama Qwen2.5 14B",
+    "n": 24,
+    "successful": 24,
+    "median_s": 3.5109439165098593,
+    "min_s": 2.9967992500169203,
+    "max_s": 15.453321416978724,
+    "first_s": 15.453321416978724,
+    "median_excluding_first_s": 3.506374708027579,
+    "source": "runs/ollama_qwen2.5_14b_development.jsonl"
+  }
+]

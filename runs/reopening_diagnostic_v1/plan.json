@@ -1,0 +1,31 @@
+{
+  "stage": "outcome_selected_reopening_diagnostic",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seeds": {
+    "los_angeles": [
+      4211
+    ],
+    "luxembourg": [
+      4219
+    ],
+    "pedralbes": [
+      4219
+    ]
+  },
+  "closure_s": [
+    300,
+    900
+  ],
+  "end_s": 2400,
+  "step_s": 0.5,
+  "information": "Perfect incident information; no communication or inference",
+  "uptake": 1,
+  "decision": "Once at actual departure for scheduled cohort, if still on first edge",
+  "selection": "Prior maximum unfinished per city; lowest seed tie-break; same three selected v25 controls",
+  "all_selected_blocks_retained": true,
+  "inference_calls": 0
+}

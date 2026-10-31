@@ -1,0 +1,27 @@
+{
+  "cities": [
+    {
+      "city": "los_angeles",
+      "request_ids_reconciled": 600,
+      "arrivals_verified": 600,
+      "signal_detector_warning_lines": 14,
+      "passed": true
+    },
+    {
+      "city": "luxembourg",
+      "request_ids_reconciled": 600,
+      "arrivals_verified": 600,
+      "signal_detector_warning_lines": 3,
+      "passed": true
+    },
+    {
+      "city": "pedralbes",
+      "request_ids_reconciled": 600,
+      "arrivals_verified": 577,
+      "signal_detector_warning_lines": 5,
+      "passed": true
+    }
+  ],
+  "pedralbes_same_network_semantics_as_prior": true,
+  "note": "Repeated Pedralbes seed4101 is construction replication, not additional independent evidence."
+}

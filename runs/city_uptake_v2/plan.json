@@ -1,0 +1,26 @@
+{
+  "stage": "development_mechanism_not_policy_effectiveness",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "uptake": [
+    0,
+    0.25,
+    0.5,
+    1
+  ],
+  "seed": 4101,
+  "closure_s": [
+    0,
+    900
+  ],
+  "end_s": 2400,
+  "step_s": 0.5,
+  "emission_class": "HBEFA3/PC_G_EU6",
+  "information": "Perfect pre-trip closure notice; no transport or model latency, no semantic auditor. Only exposed trips with lane-feasible alternatives can divert.",
+  "compliance": "Stable SHA256 city/seed/vehicle uniform draw; nested threshold, shared across arms.",
+  "route_rule": "Deterministic free-flow shortest path avoiding closure, same candidate per vehicle in every arm; no online CO2 oracle",
+  "retention": "Retain all preflight exclusions and unavailable alternative routes; do not replace demand"
+}

@@ -1,0 +1,28 @@
+{
+  "stage": "outcome_selected_no_closure_diagnostic",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seeds": {
+    "los_angeles": [
+      4211
+    ],
+    "luxembourg": [
+      4219
+    ],
+    "pedralbes": [
+      4219
+    ]
+  },
+  "closure_s": null,
+  "selection": "Maximum unfinished count per city in prior diagnostic; lowest seed tie-break; retain same eligible detours to isolate closure toggle",
+  "end_s": 2400,
+  "step_s": 0.5,
+  "information": "Perfect incident information; no communication or inference",
+  "uptake": 1,
+  "decision": "Once at actual departure for scheduled cohort, if still on first edge",
+  "all_selected_blocks_retained": true,
+  "inference_calls": 0
+}

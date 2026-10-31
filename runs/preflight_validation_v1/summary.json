@@ -1,0 +1,128 @@
+[
+  {
+    "seed": 4101,
+    "arm": "unfiltered",
+    "requested": 600,
+    "unroutable": 4,
+    "lane_rejected": 0,
+    "arrived": 577,
+    "running": 19,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "seed": 4101,
+    "arm": "preflight",
+    "requested": 600,
+    "unroutable": 4,
+    "lane_rejected": 19,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "seed": 4102,
+    "arm": "unfiltered",
+    "requested": 600,
+    "unroutable": 7,
+    "lane_rejected": 0,
+    "arrived": 576,
+    "running": 17,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "seed": 4102,
+    "arm": "preflight",
+    "requested": 600,
+    "unroutable": 7,
+    "lane_rejected": 17,
+    "arrived": 576,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "seed": 4103,
+    "arm": "unfiltered",
+    "requested": 600,
+    "unroutable": 1,
+    "lane_rejected": 0,
+    "arrived": 573,
+    "running": 26,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "seed": 4103,
+    "arm": "preflight",
+    "requested": 600,
+    "unroutable": 1,
+    "lane_rejected": 26,
+    "arrived": 573,
+    "running": 0,
+    "pending": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  }
+]

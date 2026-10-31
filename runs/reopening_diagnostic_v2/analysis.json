@@ -1,0 +1,168 @@
+{
+  "stage": "outcome_selected_development_diagnostic",
+  "checks_passed": true,
+  "cases": [
+    {
+      "city": "los_angeles",
+      "seed": 4211,
+      "prior_outcomes_reproduced": true,
+      "permissions_restored": true,
+      "running": 16,
+      "stopped": 16,
+      "lane_end_without_next_route_connection": [
+        {
+          "vehicle_id": "317",
+          "lane": "185948963#0_0",
+          "next_route_edge": "382450785#0",
+          "compatible_lanes_on_same_edge": [
+            "185948963#0_2"
+          ],
+          "waiting_s": 1836.0,
+          "leader": null
+        },
+        {
+          "vehicle_id": "351",
+          "lane": "185948963#0_1",
+          "next_route_edge": "382452773",
+          "compatible_lanes_on_same_edge": [
+            "185948963#0_0"
+          ],
+          "waiting_s": 1836.5,
+          "leader": null
+        }
+      ],
+      "active_counts": [
+        {
+          "time_s": 299.0,
+          "active": 161
+        },
+        {
+          "time_s": 300.0,
+          "active": 161
+        },
+        {
+          "time_s": 899.0,
+          "active": 222
+        },
+        {
+          "time_s": 900.0,
+          "active": 222
+        },
+        {
+          "time_s": 901.0,
+          "active": 222
+        },
+        {
+          "time_s": 960.0,
+          "active": 182
+        },
+        {
+          "time_s": 1200.0,
+          "active": 59
+        },
+        {
+          "time_s": 1800.0,
+          "active": 16
+        },
+        {
+          "time_s": 2400.0,
+          "active": 16
+        }
+      ]
+    },
+    {
+      "city": "luxembourg",
+      "seed": 4219,
+      "prior_outcomes_reproduced": true,
+      "permissions_restored": true,
+      "running": 20,
+      "stopped": 20,
+      "lane_end_without_next_route_connection": [],
+      "active_counts": [
+        {
+          "time_s": 299.0,
+          "active": 163
+        },
+        {
+          "time_s": 300.0,
+          "active": 163
+        },
+        {
+          "time_s": 899.0,
+          "active": 223
+        },
+        {
+          "time_s": 900.0,
+          "active": 222
+        },
+        {
+          "time_s": 901.0,
+          "active": 222
+        },
+        {
+          "time_s": 960.0,
+          "active": 194
+        },
+        {
+          "time_s": 1200.0,
+          "active": 49
+        },
+        {
+          "time_s": 1800.0,
+          "active": 20
+        },
+        {
+          "time_s": 2400.0,
+          "active": 20
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "seed": 4219,
+      "prior_outcomes_reproduced": true,
+      "permissions_restored": true,
+      "running": 120,
+      "stopped": 120,
+      "lane_end_without_next_route_connection": [],
+      "active_counts": [
+        {
+          "time_s": 299.0,
+          "active": 165
+        },
+        {
+          "time_s": 300.0,
+          "active": 165
+        },
+        {
+          "time_s": 899.0,
+          "active": 257
+        },
+        {
+          "time_s": 900.0,
+          "active": 257
+        },
+        {
+          "time_s": 901.0,
+          "active": 257
+        },
+        {
+          "time_s": 960.0,
+          "active": 227
+        },
+        {
+          "time_s": 1200.0,
+          "active": 129
+        },
+        {
+          "time_s": 1800.0,
+          "active": 120
+        },
+        {
+          "time_s": 2400.0,
+          "active": 120
+        }
+      ]
+    }
+  ]
+}

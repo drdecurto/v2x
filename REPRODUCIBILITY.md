@@ -1,0 +1,11 @@
+# Reproduction levels
+
+1. **Core invariants:** `python -m pytest -q` uses synthetic fixtures, without credentials or radio downloads.
+2. **Published aggregate contrasts:** `python scripts/reproduce_aggregate_results.py` reads 240 aggregate rows for each city study (60 matched demand blocks × four arms). Shared immediate baselines in the local study are reused, not additional independent runs. It recalculates within-city differences and 10,000-resample percentile intervals, seed8141.
+3. **Trace preprocessing:** obtain the exact archived dataset via `fetch_traces.py`, verify its SHA-256, then run `prepare_traces.py`. This recreates aligned packet records locally. No trace files are included in the repository.
+4. **Full original-run verification:** historical `verify_*` scripts often require per-block `decisions.json`, tripinfo/statistics XML, raw audit JSONL, source route files or historical manifests excluded from this aggregate release. These scripts are retained as implementation documentation; do not expect all to run on the reduced package. Their saved verification JSON is historical evidence, not a fresh verification of absent files.
+5. **New simulations/model calls:** the runners and builders are supplied, but regenerate prerequisite cohorts and incident inputs and use a fresh output location. Current historical `freeze()` entry points intentionally refuse to overwrite frozen plans; audit runners also require a private reservation ledger. Never initialize a replacement ledger in the original private experiment directory. Use a separate clone/work area and your own credentials/budget to design a new run. Model outputs and live timing cannot be guaranteed identical.
+
+`docs/PROVENANCE.json` records source and staged hashes for copied files. Machine-specific path prefixes were sanitized in publication copies only; original experiment manifests may therefore contain hashes for original unsanitized artifacts or files intentionally omitted. Those are provenance, not a claim that the reduced release is byte-identical to the complete private workspace. `MANIFEST.sha256` is the integrity manifest for the public staging tree itself.
+
+No inference is needed for the supplied aggregate results. No packet-level replay, full raw-run re-verification or human reference validation is claimed from this reduced release alone.

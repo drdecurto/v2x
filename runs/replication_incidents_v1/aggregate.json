@@ -1,0 +1,50 @@
+[
+  {
+    "city": "los_angeles",
+    "blocks": 20,
+    "requested": 12000,
+    "accepted": 12000,
+    "eligible": 104,
+    "eligible_min": 0,
+    "eligible_max": 9,
+    "empty_blocks": 1,
+    "assigned": {
+      "0.25": 33,
+      "0.5": 56,
+      "1": 104
+    },
+    "distinct_incident_edges": 6
+  },
+  {
+    "city": "luxembourg",
+    "blocks": 20,
+    "requested": 12000,
+    "accepted": 12000,
+    "eligible": 161,
+    "eligible_min": 4,
+    "eligible_max": 11,
+    "empty_blocks": 0,
+    "assigned": {
+      "0.25": 32,
+      "0.5": 73,
+      "1": 161
+    },
+    "distinct_incident_edges": 8
+  },
+  {
+    "city": "pedralbes",
+    "blocks": 20,
+    "requested": 12000,
+    "accepted": 11543,
+    "eligible": 94,
+    "eligible_min": 1,
+    "eligible_max": 11,
+    "empty_blocks": 0,
+    "assigned": {
+      "0.25": 22,
+      "0.5": 41,
+      "1": 94
+    },
+    "distinct_incident_edges": 10
+  }
+]

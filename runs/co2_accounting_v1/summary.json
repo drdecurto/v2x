@@ -1,0 +1,134 @@
+[
+  {
+    "city": "los_angeles",
+    "mode": "actuated",
+    "requested": 600,
+    "accepted": 600,
+    "arrived": 600,
+    "unfinished": 0,
+    "pending": 0,
+    "excluded": 0,
+    "co2_kg": 596.5872931468728,
+    "unfinished_co2_kg": 0.0,
+    "rate_integral_kg": 595.6128577505852,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 9569.8498593095,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  },
+  {
+    "city": "los_angeles",
+    "mode": "static",
+    "requested": 600,
+    "accepted": 600,
+    "arrived": 592,
+    "unfinished": 8,
+    "pending": 0,
+    "excluded": 0,
+    "co2_kg": 661.8047509366475,
+    "unfinished_co2_kg": 34.84895768679698,
+    "rate_integral_kg": 660.8934304459339,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 9329.355929818936,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  },
+  {
+    "city": "luxembourg",
+    "mode": "actuated",
+    "requested": 600,
+    "accepted": 600,
+    "arrived": 600,
+    "unfinished": 0,
+    "pending": 0,
+    "excluded": 0,
+    "co2_kg": 367.5720339001695,
+    "unfinished_co2_kg": 0.0,
+    "rate_integral_kg": 367.4650107670544,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 4179.412457959726,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  },
+  {
+    "city": "luxembourg",
+    "mode": "static",
+    "requested": 600,
+    "accepted": 600,
+    "arrived": 600,
+    "unfinished": 0,
+    "pending": 0,
+    "excluded": 0,
+    "co2_kg": 434.96150478213053,
+    "unfinished_co2_kg": 0.0,
+    "rate_integral_kg": 434.893735780488,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 4552.73253173905,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  },
+  {
+    "city": "pedralbes",
+    "mode": "actuated",
+    "requested": 600,
+    "accepted": 577,
+    "arrived": 577,
+    "unfinished": 0,
+    "pending": 0,
+    "excluded": 23,
+    "co2_kg": 355.711479250942,
+    "unfinished_co2_kg": 0.0,
+    "rate_integral_kg": 355.66229780834897,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 5708.543563713087,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  },
+  {
+    "city": "pedralbes",
+    "mode": "static",
+    "requested": 600,
+    "accepted": 577,
+    "arrived": 577,
+    "unfinished": 0,
+    "pending": 0,
+    "excluded": 23,
+    "co2_kg": 457.9008333157832,
+    "unfinished_co2_kg": 0.0,
+    "rate_integral_kg": 457.8258524198296,
+    "exact_reconciliation": false,
+    "max_reconciliation_error_mg": 5587.4520202995045,
+    "trajectory_summary_matches_prior": true,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "2"
+    },
+    "prior_comparison_tolerance": "0.00501m route length because old unfinished output rounded to0.01m;1e-6s other fields"
+  }
+]

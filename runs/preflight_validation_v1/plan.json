@@ -1,0 +1,20 @@
+{
+  "seeds": [
+    4101,
+    4102,
+    4103
+  ],
+  "purpose": "development, not held-out confirmation",
+  "requested_per_seed": 600,
+  "network_sha256": "eb31b167d2d7f3f37ae143dcb0293e5d42b42620e5c1ebc903b51dce2e8cb937",
+  "demand_domain": "original Pedralbes network; period1.5, depart0-900,min600m,max2500m,fringe5",
+  "rules": "duarouter unreachable and necessary lane-feasibility failures rejected before traffic outcomes; no replenishment; no outcome exclusions",
+  "end_s": 2400,
+  "step_s": 0.5,
+  "teleport": false,
+  "arms": [
+    "unfiltered",
+    "preflight"
+  ],
+  "caveat": "Filtering changes traffic load; completion differences are not a causal policy benefit."
+}

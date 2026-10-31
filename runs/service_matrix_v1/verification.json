@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "decisions": 2304,
+  "summary_rows": 96,
+  "independent_semantic_cases": 8,
+  "scope": "Input hashes, complete pairing, denominator and decision-record invariants; not human label validation"
+}

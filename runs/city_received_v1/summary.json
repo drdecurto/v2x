@@ -1,0 +1,77 @@
+[
+  {
+    "city": "los_angeles",
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": 652.51980888,
+    "decisions": 66,
+    "applied": 6,
+    "unavailable": 56,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "luxembourg",
+    "requested": 600,
+    "accepted": 600,
+    "excluded": 0,
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": 488.87641579,
+    "decisions": 116,
+    "applied": 4,
+    "unavailable": 105,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  },
+  {
+    "city": "pedralbes",
+    "requested": 600,
+    "accepted": 577,
+    "excluded": 23,
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": 494.42909197,
+    "decisions": 81,
+    "applied": 8,
+    "unavailable": 72,
+    "closed_edge_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    }
+  }
+]

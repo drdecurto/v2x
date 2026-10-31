@@ -1,0 +1,802 @@
+{
+  "complete": true,
+  "verified_blocks": 240,
+  "verified_decisions": 1436,
+  "source_hashes": 131,
+  "summary": [
+    {
+      "city": "los_angeles",
+      "policy": "none",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11984.0,
+        "running": 16.0,
+        "pending": 0.0,
+        "co2_kg": 13549.37939039,
+        "decisions": 104.0,
+        "applied": 104.0,
+        "clean": 30.0,
+        "clean_admitted": 30.0,
+        "harmful_original_text": 49.0,
+        "uncertain_original_text": 25.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.45,
+          "bootstrap_95": [
+            1.75,
+            3.15
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "unchecked": 104
+      }
+    },
+    {
+      "city": "los_angeles",
+      "policy": "rules",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11984.0,
+        "running": 16.0,
+        "pending": 0.0,
+        "co2_kg": 13549.37939039,
+        "decisions": 104.0,
+        "applied": 104.0,
+        "clean": 30.0,
+        "clean_admitted": 30.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 0.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "verified_template": 104
+      }
+    },
+    {
+      "city": "los_angeles",
+      "policy": "content",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11975.0,
+        "running": 25.0,
+        "pending": 0.0,
+        "co2_kg": 13605.74062351,
+        "decisions": 104.0,
+        "applied": 45.0,
+        "clean": 30.0,
+        "clean_admitted": 23.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 22.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.818061655999992,
+          "bootstrap_95": [
+            -0.17772563849998732,
+            6.2313954279999795
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.45,
+          "bootstrap_95": [
+            -1.25,
+            0.15
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.95,
+          "bootstrap_95": [
+            -3.7,
+            -2.15
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.35,
+          "bootstrap_95": [
+            -0.65,
+            -0.1
+          ]
+        }
+      },
+      "modes": {
+        "content_reject": 39,
+        "audit_version_changed": 11,
+        "content_accept": 45,
+        "decision_point_passed": 8,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "los_angeles",
+      "policy": "deadline",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11975.0,
+        "running": 25.0,
+        "pending": 0.0,
+        "co2_kg": 13605.74062351,
+        "decisions": 104.0,
+        "applied": 45.0,
+        "clean": 30.0,
+        "clean_admitted": 23.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 22.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.818061655999992,
+          "bootstrap_95": [
+            -0.17772563849998732,
+            6.2313954279999795
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.45,
+          "bootstrap_95": [
+            -1.25,
+            0.15
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.95,
+          "bootstrap_95": [
+            -3.7,
+            -2.15
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.35,
+          "bootstrap_95": [
+            -0.65,
+            -0.1
+          ]
+        }
+      },
+      "modes": {
+        "content_reject": 39,
+        "audit_version_changed": 11,
+        "content_accept": 45,
+        "decision_point_passed": 8,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "luxembourg",
+      "policy": "none",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11868.0,
+        "running": 131.0,
+        "pending": 1.0,
+        "co2_kg": 10352.43472442,
+        "decisions": 161.0,
+        "applied": 161.0,
+        "clean": 62.0,
+        "clean_admitted": 62.0,
+        "harmful_original_text": 70.0,
+        "uncertain_original_text": 29.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 3.5,
+          "bootstrap_95": [
+            2.85,
+            4.2
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "unchecked": 161
+      }
+    },
+    {
+      "city": "luxembourg",
+      "policy": "rules",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11868.0,
+        "running": 131.0,
+        "pending": 1.0,
+        "co2_kg": 10352.43472442,
+        "decisions": 161.0,
+        "applied": 161.0,
+        "clean": 62.0,
+        "clean_admitted": 62.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 0.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "verified_template": 161
+      }
+    },
+    {
+      "city": "luxembourg",
+      "policy": "content",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11891.0,
+        "running": 109.0,
+        "pending": 0.0,
+        "co2_kg": 10314.52544208,
+        "decisions": 161.0,
+        "applied": 71.0,
+        "clean": 62.0,
+        "clean_admitted": 50.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 21.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -1.8954641170000088,
+          "bootstrap_95": [
+            -21.02776379550001,
+            13.749308689999996
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 1.15,
+          "bootstrap_95": [
+            -5.05,
+            8.4
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -4.5,
+          "bootstrap_95": [
+            -5.3,
+            -3.65
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.6,
+          "bootstrap_95": [
+            -0.9,
+            -0.3
+          ]
+        }
+      },
+      "modes": {
+        "decision_point_passed": 15,
+        "audit_version_changed": 21,
+        "content_accept": 71,
+        "content_reject": 53,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "luxembourg",
+      "policy": "deadline",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 12000.0,
+        "excluded": 0.0,
+        "arrived": 11891.0,
+        "running": 109.0,
+        "pending": 0.0,
+        "co2_kg": 10314.52544208,
+        "decisions": 161.0,
+        "applied": 71.0,
+        "clean": 62.0,
+        "clean_admitted": 50.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 21.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -1.8954641170000088,
+          "bootstrap_95": [
+            -21.02776379550001,
+            13.749308689999996
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 1.15,
+          "bootstrap_95": [
+            -5.05,
+            8.4
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -4.5,
+          "bootstrap_95": [
+            -5.3,
+            -3.65
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.6,
+          "bootstrap_95": [
+            -0.9,
+            -0.3
+          ]
+        }
+      },
+      "modes": {
+        "decision_point_passed": 15,
+        "audit_version_changed": 21,
+        "content_accept": 71,
+        "content_reject": 53,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "pedralbes",
+      "policy": "none",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 11543.0,
+        "excluded": 457.0,
+        "arrived": 11135.0,
+        "running": 408.0,
+        "pending": 0.0,
+        "co2_kg": 10692.32168888,
+        "decisions": 94.0,
+        "applied": 93.0,
+        "clean": 28.0,
+        "clean_admitted": 28.0,
+        "harmful_original_text": 53.0,
+        "uncertain_original_text": 12.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.65,
+          "bootstrap_95": [
+            1.8,
+            3.6
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "unchecked": 93,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "pedralbes",
+      "policy": "rules",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 11543.0,
+        "excluded": 457.0,
+        "arrived": 11135.0,
+        "running": 408.0,
+        "pending": 0.0,
+        "co2_kg": 10692.32168888,
+        "decisions": 94.0,
+        "applied": 93.0,
+        "clean": 28.0,
+        "clean_admitted": 28.0,
+        "harmful_original_text": 0.0,
+        "uncertain_original_text": 0.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.0,
+          "bootstrap_95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "modes": {
+        "verified_template": 93,
+        "evidence_unavailable": 1
+      }
+    },
+    {
+      "city": "pedralbes",
+      "policy": "content",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 11543.0,
+        "excluded": 457.0,
+        "arrived": 11175.0,
+        "running": 367.0,
+        "pending": 1.0,
+        "co2_kg": 10648.75919859,
+        "decisions": 94.0,
+        "applied": 35.0,
+        "clean": 28.0,
+        "clean_admitted": 23.0,
+        "harmful_original_text": 2.0,
+        "uncertain_original_text": 10.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.178124514499993,
+          "bootstrap_95": [
+            -29.69205319799999,
+            18.733584828500003
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.0,
+          "bootstrap_95": [
+            -6.1,
+            12.55
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.9,
+          "bootstrap_95": [
+            -4.05,
+            -1.95
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.1,
+          "bootstrap_95": [
+            0.0,
+            0.25
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.25,
+          "bootstrap_95": [
+            -0.5,
+            -0.05
+          ]
+        }
+      },
+      "modes": {
+        "content_accept": 35,
+        "decision_point_passed": 10,
+        "content_reject": 42,
+        "audit_version_changed": 5,
+        "evidence_unavailable": 2
+      }
+    },
+    {
+      "city": "pedralbes",
+      "policy": "deadline",
+      "completed_blocks": 20,
+      "totals": {
+        "accepted": 11543.0,
+        "excluded": 457.0,
+        "arrived": 11175.0,
+        "running": 367.0,
+        "pending": 1.0,
+        "co2_kg": 10648.75919859,
+        "decisions": 94.0,
+        "applied": 35.0,
+        "clean": 28.0,
+        "clean_admitted": 23.0,
+        "harmful_original_text": 2.0,
+        "uncertain_original_text": 10.0
+      },
+      "paired_vs_rules": {
+        "co2_kg": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.178124514499993,
+          "bootstrap_95": [
+            -29.69205319799999,
+            18.733584828500003
+          ]
+        },
+        "arrived": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 2.0,
+          "bootstrap_95": [
+            -6.1,
+            12.55
+          ]
+        },
+        "applied": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -2.9,
+          "bootstrap_95": [
+            -4.05,
+            -1.95
+          ]
+        },
+        "harmful_original_text": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": 0.1,
+          "bootstrap_95": [
+            0.0,
+            0.25
+          ]
+        },
+        "clean_admitted": {
+          "n_pairs": 20,
+          "mean_policy_minus_rules": -0.25,
+          "bootstrap_95": [
+            -0.5,
+            -0.05
+          ]
+        }
+      },
+      "modes": {
+        "content_accept": 35,
+        "decision_point_passed": 10,
+        "content_reject": 42,
+        "audit_version_changed": 5,
+        "evidence_unavailable": 2
+      }
+    }
+  ]
+}

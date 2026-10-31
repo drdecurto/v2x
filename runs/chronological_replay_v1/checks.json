@@ -1,0 +1,18 @@
+[
+  {
+    "profile": 1,
+    "native_tx_loss_delay_preserved": true,
+    "causal_snapshot_selection": true,
+    "all_and_only_recorded_arrivals": true,
+    "monotone_receiver_versions": true,
+    "received": 5327
+  },
+  {
+    "profile": 6,
+    "native_tx_loss_delay_preserved": true,
+    "causal_snapshot_selection": true,
+    "all_and_only_recorded_arrivals": true,
+    "monotone_receiver_versions": true,
+    "received": 3431
+  }
+]

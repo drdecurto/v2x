@@ -1,0 +1,134 @@
+{
+  "cities": [
+    {
+      "city": "los_angeles",
+      "requested": 600,
+      "accepted": 600,
+      "excluded": 0,
+      "departures_in_window": 40,
+      "exposed_in_window": 1,
+      "eligible": 1,
+      "assigned": {
+        "0.25": 0,
+        "0.5": 0,
+        "1": 1
+      },
+      "cohort": [
+        {
+          "id": "214",
+          "scheduled_departure_s": 321.0,
+          "compliance_draw": 0.6776657799529668
+        }
+      ]
+    },
+    {
+      "city": "luxembourg",
+      "requested": 600,
+      "accepted": 600,
+      "excluded": 0,
+      "departures_in_window": 40,
+      "exposed_in_window": 7,
+      "eligible": 7,
+      "assigned": {
+        "0.25": 0,
+        "0.5": 3,
+        "1": 7
+      },
+      "cohort": [
+        {
+          "id": "208",
+          "scheduled_departure_s": 312.0,
+          "compliance_draw": 0.5944870403849869
+        },
+        {
+          "id": "210",
+          "scheduled_departure_s": 315.0,
+          "compliance_draw": 0.38407411323865825
+        },
+        {
+          "id": "220",
+          "scheduled_departure_s": 330.0,
+          "compliance_draw": 0.9472018438118162
+        },
+        {
+          "id": "232",
+          "scheduled_departure_s": 348.0,
+          "compliance_draw": 0.9255386289625769
+        },
+        {
+          "id": "236",
+          "scheduled_departure_s": 354.0,
+          "compliance_draw": 0.351540772754236
+        },
+        {
+          "id": "237",
+          "scheduled_departure_s": 355.5,
+          "compliance_draw": 0.3147594214861216
+        },
+        {
+          "id": "241",
+          "scheduled_departure_s": 361.5,
+          "compliance_draw": 0.6675971834903215
+        }
+      ]
+    },
+    {
+      "city": "pedralbes",
+      "requested": 600,
+      "accepted": 577,
+      "excluded": 23,
+      "departures_in_window": 38,
+      "exposed_in_window": 6,
+      "eligible": 6,
+      "assigned": {
+        "0.25": 2,
+        "0.5": 3,
+        "1": 6
+      },
+      "cohort": [
+        {
+          "id": "217",
+          "scheduled_departure_s": 325.5,
+          "compliance_draw": 0.05386881357569796
+        },
+        {
+          "id": "219",
+          "scheduled_departure_s": 328.5,
+          "compliance_draw": 0.5469053614648645
+        },
+        {
+          "id": "221",
+          "scheduled_departure_s": 331.5,
+          "compliance_draw": 0.20401503553921357
+        },
+        {
+          "id": "233",
+          "scheduled_departure_s": 349.5,
+          "compliance_draw": 0.5874516676512478
+        },
+        {
+          "id": "234",
+          "scheduled_departure_s": 351.0,
+          "compliance_draw": 0.3323161223727684
+        },
+        {
+          "id": "239",
+          "scheduled_departure_s": 358.5,
+          "compliance_draw": 0.6604719208137078
+        }
+      ]
+    }
+  ],
+  "traces": [
+    {
+      "profile": 1,
+      "native_span_s": 125.37964,
+      "tx_in_fixed_window": 4501
+    },
+    {
+      "profile": 6,
+      "native_span_s": 98.960027,
+      "tx_in_fixed_window": 4500
+    }
+  ]
+}

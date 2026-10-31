@@ -1,0 +1,16 @@
+{
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "seed": 4101,
+  "requested_per_city": 600,
+  "demand": "Reuse original stored OD requests, no replenishment",
+  "import": "Same original OSM; no guessed ramps; OSM lane access; otherwise original geometry/junction/TLS/passenger/turn-lane options",
+  "preflight": "Reject unroutable requests and legal passenger lane-reachability failures before outcomes; unlimited lane-change distance is a necessary, not sufficient, check",
+  "horizon_s": 2400,
+  "step_s": 0.5,
+  "teleport": false,
+  "scope": "Development construction validation, no calibrated city traffic or policy comparison"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "qwen2.5:14b",
+  "model": "qwen2.5:14b",
+  "modified_at": "2026-10-30T00:28:29.174050669+01:00",
+  "size": 8988124069,
+  "digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "qwen2",
+    "families": [
+      "qwen2"
+    ],
+    "parameter_size": "14.8B",
+    "quantization_level": "Q4_K_M",
+    "context_length": 32768,
+    "embedding_length": 5120,
+    "runner": "ggml"
+  },
+  "capabilities": [
+    "completion",
+    "tools"
+  ]
+}

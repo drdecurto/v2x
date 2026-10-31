@@ -1,0 +1,1837 @@
+[
+  {
+    "city": "los_angeles",
+    "seed": 4201,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "652.53991379",
+    "grandfathered": [
+      "84",
+      "157",
+      "109"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 15,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "1",
+      "emergencyBraking": "2"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4202,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "650.22132155",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "1",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4203,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "647.88587543",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4204,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "626.8628646",
+    "grandfathered": [
+      "144",
+      "109"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 59,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4205,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "649.58432314",
+    "grandfathered": [
+      "104"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 1,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4206,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "635.73275856",
+    "grandfathered": [
+      "46"
+    ],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 12,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4207,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "662.22592486",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "1",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4208,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 9,
+    "decisions": 9,
+    "applied": 9,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "637.59946314",
+    "grandfathered": [],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 20,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4209,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "657.18586413",
+    "grandfathered": [
+      "51"
+    ],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 22,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4210,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 9,
+    "decisions": 9,
+    "applied": 9,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "659.63398219",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4211,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 9,
+    "decisions": 9,
+    "applied": 9,
+    "decision_failures": [],
+    "arrived": 584,
+    "running": 16,
+    "pending": 0,
+    "co2_kg": "700.79632812",
+    "grandfathered": [
+      "56"
+    ],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 63,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4212,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 0,
+    "decisions": 0,
+    "applied": 0,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "644.11359186",
+    "grandfathered": [
+      "88",
+      "24",
+      "57"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 182,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4213,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 4,
+    "decisions": 4,
+    "applied": 4,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "659.43484092",
+    "grandfathered": [
+      "114",
+      "103",
+      "120"
+    ],
+    "new_closed_edge_entries": 2,
+    "closed_occupancy_samples": 250,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4214,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 596,
+    "running": 4,
+    "pending": 0,
+    "co2_kg": "680.54317336",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "1",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4215,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "652.8617731",
+    "grandfathered": [
+      "137"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 2,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4216,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 4,
+    "decisions": 4,
+    "applied": 4,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "621.29797076",
+    "grandfathered": [
+      "43"
+    ],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 10,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4217,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 2,
+    "decisions": 2,
+    "applied": 2,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "657.8117826",
+    "grandfathered": [
+      "105",
+      "96"
+    ],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 15,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4218,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "626.43085522",
+    "grandfathered": [
+      "179"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 12,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4219,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "636.00743272",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "los_angeles",
+    "seed": 4220,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 1,
+    "decisions": 1,
+    "applied": 1,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "687.20892654",
+    "grandfathered": [
+      "169"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 52,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4201,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 11,
+    "decisions": 11,
+    "applied": 11,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "451.32017075",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4202,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 9,
+    "decisions": 9,
+    "applied": 9,
+    "decision_failures": [],
+    "arrived": 594,
+    "running": 6,
+    "pending": 0,
+    "co2_kg": "484.59415004",
+    "grandfathered": [
+      "129"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 5,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4203,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 11,
+    "decisions": 11,
+    "applied": 11,
+    "decision_failures": [],
+    "arrived": 598,
+    "running": 2,
+    "pending": 0,
+    "co2_kg": "475.85887576",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4204,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "493.4072949",
+    "grandfathered": [],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 13,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4205,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "443.52699136",
+    "grandfathered": [
+      "76",
+      "126",
+      "140"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 6,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4206,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 594,
+    "running": 6,
+    "pending": 0,
+    "co2_kg": "451.00545444",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4207,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 11,
+    "decisions": 11,
+    "applied": 11,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "439.18413353",
+    "grandfathered": [
+      "164",
+      "85"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 1202,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4208,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "427.6098926",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4209,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "441.53932824",
+    "grandfathered": [
+      "165"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4210,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 11,
+    "decisions": 11,
+    "applied": 11,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "456.70753165",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4211,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "496.05610908",
+    "grandfathered": [
+      "144",
+      "122",
+      "152",
+      "48"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 66,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4212,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 10,
+    "decisions": 10,
+    "applied": 10,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "445.18561671",
+    "grandfathered": [],
+    "new_closed_edge_entries": 2,
+    "closed_occupancy_samples": 21,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4213,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "448.7834313",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4214,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "445.04055493",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4215,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 4,
+    "decisions": 4,
+    "applied": 4,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "422.54592802",
+    "grandfathered": [
+      "30",
+      "56",
+      "113",
+      "37",
+      "53",
+      "62",
+      "75"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 81,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4216,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 596,
+    "running": 4,
+    "pending": 0,
+    "co2_kg": "442.4856571",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4217,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 9,
+    "decisions": 9,
+    "applied": 9,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "433.21571172",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4218,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 599,
+    "running": 1,
+    "pending": 0,
+    "co2_kg": "443.55231475",
+    "grandfathered": [
+      "98"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 13,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4219,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 580,
+    "running": 20,
+    "pending": 0,
+    "co2_kg": "485.20690653",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "luxembourg",
+    "seed": 4220,
+    "accepted": 600,
+    "excluded": 0,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 600,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "440.73063907",
+    "grandfathered": [
+      "169",
+      "95"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 46,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4201,
+    "accepted": 583,
+    "excluded": 17,
+    "eligible": 2,
+    "decisions": 2,
+    "applied": 2,
+    "decision_failures": [],
+    "arrived": 570,
+    "running": 13,
+    "pending": 0,
+    "co2_kg": "433.6412467",
+    "grandfathered": [
+      "84",
+      "159"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 8,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4202,
+    "accepted": 573,
+    "excluded": 27,
+    "eligible": 8,
+    "decisions": 8,
+    "applied": 8,
+    "decision_failures": [],
+    "arrived": 573,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "402.259626",
+    "grandfathered": [
+      "105",
+      "15",
+      "80"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 27,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4203,
+    "accepted": 578,
+    "excluded": 22,
+    "eligible": 4,
+    "decisions": 4,
+    "applied": 4,
+    "decision_failures": [],
+    "arrived": 578,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "434.67644006",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4204,
+    "accepted": 578,
+    "excluded": 22,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 578,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "412.57777077",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4205,
+    "accepted": 582,
+    "excluded": 18,
+    "eligible": 2,
+    "decisions": 2,
+    "applied": 2,
+    "decision_failures": [],
+    "arrived": 582,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "431.91452195",
+    "grandfathered": [
+      "159",
+      "81"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 14,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4206,
+    "accepted": 579,
+    "excluded": 21,
+    "eligible": 2,
+    "decisions": 2,
+    "applied": 2,
+    "decision_failures": [],
+    "arrived": 579,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "412.01909979",
+    "grandfathered": [
+      "93",
+      "115"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 13,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4207,
+    "accepted": 580,
+    "excluded": 20,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 483,
+    "running": 97,
+    "pending": 0,
+    "co2_kg": "702.98642158",
+    "grandfathered": [
+      "44",
+      "147"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 12,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4208,
+    "accepted": 577,
+    "excluded": 23,
+    "eligible": 4,
+    "decisions": 4,
+    "applied": 4,
+    "decision_failures": [],
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "413.83981644",
+    "grandfathered": [
+      "138"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 24,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4209,
+    "accepted": 577,
+    "excluded": 23,
+    "eligible": 11,
+    "decisions": 11,
+    "applied": 11,
+    "decision_failures": [],
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "421.34916411",
+    "grandfathered": [
+      "116",
+      "82"
+    ],
+    "new_closed_edge_entries": 2,
+    "closed_occupancy_samples": 46,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4210,
+    "accepted": 570,
+    "excluded": 30,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 570,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "382.71643309",
+    "grandfathered": [
+      "145",
+      "166",
+      "119"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 33,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4211,
+    "accepted": 577,
+    "excluded": 23,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "418.1196082",
+    "grandfathered": [],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 14,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4212,
+    "accepted": 585,
+    "excluded": 15,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 585,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "460.05299163",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4213,
+    "accepted": 576,
+    "excluded": 24,
+    "eligible": 3,
+    "decisions": 3,
+    "applied": 3,
+    "decision_failures": [],
+    "arrived": 576,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "402.02474151",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4214,
+    "accepted": 578,
+    "excluded": 22,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 578,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "403.00675684",
+    "grandfathered": [
+      "105"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 14,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "1",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4215,
+    "accepted": 576,
+    "excluded": 24,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 576,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "425.33535272",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4216,
+    "accepted": 583,
+    "excluded": 17,
+    "eligible": 1,
+    "decisions": 1,
+    "applied": 1,
+    "decision_failures": [],
+    "arrived": 581,
+    "running": 2,
+    "pending": 0,
+    "co2_kg": "414.70911267",
+    "grandfathered": [
+      "110"
+    ],
+    "new_closed_edge_entries": 2,
+    "closed_occupancy_samples": 61,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4217,
+    "accepted": 573,
+    "excluded": 27,
+    "eligible": 6,
+    "decisions": 6,
+    "applied": 6,
+    "decision_failures": [],
+    "arrived": 573,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "439.7432643",
+    "grandfathered": [],
+    "new_closed_edge_entries": 1,
+    "closed_occupancy_samples": 21,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4218,
+    "accepted": 574,
+    "excluded": 26,
+    "eligible": 7,
+    "decisions": 7,
+    "applied": 7,
+    "decision_failures": [],
+    "arrived": 574,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "403.98768914",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4219,
+    "accepted": 567,
+    "excluded": 33,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 447,
+    "running": 120,
+    "pending": 0,
+    "co2_kg": "792.30585413",
+    "grandfathered": [
+      "137",
+      "128"
+    ],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 26,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "0"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  },
+  {
+    "city": "pedralbes",
+    "seed": 4220,
+    "accepted": 577,
+    "excluded": 23,
+    "eligible": 5,
+    "decisions": 5,
+    "applied": 5,
+    "decision_failures": [],
+    "arrived": 577,
+    "running": 0,
+    "pending": 0,
+    "co2_kg": "425.60592805",
+    "grandfathered": [],
+    "new_closed_edge_entries": 0,
+    "closed_occupancy_samples": 0,
+    "safety": {
+      "collisions": "0",
+      "emergencyStops": "0",
+      "emergencyBraking": "1"
+    },
+    "teleports": {
+      "total": "0",
+      "jam": "0",
+      "yield": "0",
+      "wrongLane": "0"
+    },
+    "accounting_valid": true
+  }
+]

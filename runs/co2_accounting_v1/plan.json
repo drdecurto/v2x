@@ -1,0 +1,24 @@
+{
+  "stage": "development_accounting_not_confirmatory",
+  "cities": [
+    "los_angeles",
+    "luxembourg",
+    "pedralbes"
+  ],
+  "modes": [
+    "actuated",
+    "static"
+  ],
+  "seed": 4101,
+  "end_s": 2400,
+  "step_s": 0.5,
+  "emission_class": "HBEFA3/PC_G_EU6",
+  "fleet": "Homogeneous gasoline Euro6 archetype; not a claim about any city fleet",
+  "boundary": "Modelled tank-to-wheel CO2; excludes fuel production, EV electricity, infrastructure and inference",
+  "uncompleted": "Include accumulated emissions of unfinished trips; pending and excluded requests remain explicit",
+  "verification": "Integrate unscaled mg/s output times0.5s and reconcile per vehicle against tripinfo CO2_abs in mg",
+  "source_docs": [
+    "https://sumo.dlr.de/docs/Simulation/Output/EmissionOutput.html",
+    "https://sumo.dlr.de/docs/Models/Emissions/HBEFA3-based.html"
+  ]
+}

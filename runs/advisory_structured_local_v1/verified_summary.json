@@ -1,0 +1,98 @@
+[
+  {
+    "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+    "configuration": "prompt JSON",
+    "n": 180,
+    "correct_by_category": [
+      30,
+      30,
+      30,
+      24,
+      30,
+      0
+    ],
+    "parse_failures": 0,
+    "median_client_s": 0.5967211459937971,
+    "input_sha256": "17acdd2f7eef7805a48d3b93debc38e1d123c35329435d6ee18bf58526e85e66"
+  },
+  {
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "configuration": "prompt JSON",
+    "n": 180,
+    "correct_by_category": [
+      30,
+      30,
+      30,
+      10,
+      21,
+      30
+    ],
+    "parse_failures": 0,
+    "median_client_s": 1.7119748959958088,
+    "input_sha256": "2da0cf0d21ffb56fbb514b5c88f3141cad791ceb6c6eae07ba1bbb4dea221c1b"
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "configuration": "prompt JSON",
+    "n": 180,
+    "correct_by_category": [
+      30,
+      30,
+      28,
+      2,
+      6,
+      30
+    ],
+    "parse_failures": 0,
+    "median_client_s": 0.44682291700155474,
+    "input_sha256": "eeea4c2270d1db9817905f8f71b1ca5c13289a678dce5b2fd73f63e38eaf5e20"
+  },
+  {
+    "model": "llama3.1:8b",
+    "configuration": "native JSON",
+    "n": 180,
+    "correct_by_category": [
+      30,
+      6,
+      30,
+      30,
+      30,
+      11
+    ],
+    "parse_failures": 0,
+    "median_client_s": 1.7556576665083412,
+    "input_sha256": "d492dd5394451cb43ae213055303bb9ab58f2e669a1833095d34504916745b78"
+  },
+  {
+    "model": "phi4:latest",
+    "configuration": "native JSON",
+    "n": 180,
+    "correct_by_category": [
+      30,
+      30,
+      30,
+      30,
+      28,
+      0
+    ],
+    "parse_failures": 0,
+    "median_client_s": 6.606848332972731,
+    "input_sha256": "0c87b127946ab55965054e804c356ea418d4f00e438c60ecca0df9104fac0235"
+  },
+  {
+    "model": "qwen2.5:14b",
+    "configuration": "native JSON",
+    "n": 180,
+    "correct_by_category": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      3
+    ],
+    "parse_failures": 0,
+    "median_client_s": 3.728373603982618,
+    "input_sha256": "27a74ed13e8b8067b969970b167a24c30edc8e51f503b4e94a1ee40c9d036556"
+  }
+]
